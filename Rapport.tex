@@ -1,21 +1,151 @@
-\documentclass[12pt]{article}
+%% Déclare un article sur feuille A4
+\documentclass[a4paper]{article}
 
+%% Langues et encodages des polices d'écriture
+\usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
-\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+
+%%  Choisis la page et les marges 
+\usepackage[a4paper,top=3cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+%% Importe les packages dont on a besoin dans le rapport
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
 
 \begin{document}
 
     % Page de garde
     Bouygues Energies et Services
     \hfill
-    PINON Olivier
+    Pinon Olivier
 
     49 avenue du Lac du Bourget, Le Bourget du Lac
     \hfill
-    IUT d'Annecy
+    IUT d'Annecy \newline 
+    
     \begin{flushright}
         DUT INFO
+    \end{flushright}
+    
+     \begin{flushright}
         Année 2016/2017
     \end{flushright}
+    
+    \vfill 
+    \begin{center}
+		\huge{\textbf{Rapport de stage : }} \\
+        \vspace{20pt}
+        \large{Développement d'un module d'habilitation éléctrique en réalité virtuelle sur moteur de jeu Unity}
+        
+	\end{center}
+    \vfill 
+    
+    Palanca Jérôme  \hfill Damas Luc
+ 
+ 	\newpage 
+ 	% Remerciements 
+    
+    \huge \textbf{Remerciements} \vspace{5pt} \\
+   
+    \normalsize
+    Je souhaite tout d'abord remercier Monsieur Jérôme PALANCA, mon tuteur de stage, pour la confiance, l'écoute et la sympathie dont il a fait preuve à mon égard. Il a su m'aider à comprendre les problèmes de nature inconnue qui m'étaient posés et a su accepter mes propositions tout en me proposant des améliorations. Le suivi quotidien qu'il a effectué m'a permis de constamment garder en tête les objectifs et ainsi de me guider pas à pas dans le projet. \vspace{10pt} \\
 
+    J'adresse également mes remerciements à Monsieur Renaud PAYERNE, qui est à l'origine du projet peu commun sur lequel j'ai travaillé, et m'a permis d'obtenir le stage. \vspace{10pt} \\
+
+	Merci également à Monsieur Luc DAMAS, pour son suivi en cours de stage qui m'a donné de précieuses indications sur le contenu et les axes à souligner dans mon rapport et ma soutenance. \vspace{10pt} \\
+
+    Finalement, je tiens à remercier l'ensemble du bureau d'études de Bouygues Energies et Services. Merci à cette équipe qui a su m'accueillir malgré nos travaux très différents, et qui m'ont fait passé un très bon stage dans la bonne humeur quotidienne du bureau. Ils ont su me donner un aperçu du monde du travail très plaisant, à la fois sérieux dans les heures de travail, et détendu dans les moments de pause. \vspace{10pt} \\
+
+    Grâce à votre confiance, à vos réponses, à votre avenance, j'ai pu apprendre beaucoup sur le monde professionnel, et travailler à vos côtés a été un véritable plaisir. \\
+    
+    \newpage
+    % Table des matières 
+    \tableofcontents
+    
+    \newpage 
+    % Introduction 
+    \huge \textbf{Introduction} \vspace{5pt} \\
+    
+    \newpage 
+    % Présentation de l'entreprise 
+    \section{Présentation de l'entreprise}
+    \subsection{Implantations et locaux}
+    \subsection{Activité et services}
+    \subsection{Le personnel}
+    \subsection{L'équipe de travail}
+    
+    % Présentation du besoin
+    \section{Présentation du besoin}
+    \subsection{Analyse de l'existant}
+    \subsection{Analyse du besoin}
+    \subsection{Listing des fonctionnalités}
+    \subsection{Moyens techniques et outils envisages}
+
+    % Etude et réalisation
+    \section{Etude et réalisation}
+    \subsection{Planification}
+    \subsection{Phase de conception}
+    \subsection{Phase de réalisation}
+    \subsection{Phase de tests}
+    \subsection{Phase de déploiement}
+   
+    % Bilan
+    \section{Bilan}
+    \subsection{Bilan personnel}
+    \subsection{Bilan professionnel}
+
+    % Conclusion
+    \huge \textbf{Conclusion} \vspace{5pt} \\
+   
+    % Annexes
+    \section{Annexes}
+    
+    \newpage 
+    % Page de fin 
+    
+    \normalsize
+    
+    Bouygues Energies et Services
+    \hfill
+    Pinon Olivier
+
+    49 avenue du Lac du Bourget, Le Bourget du Lac
+    \hfill
+    IUT d'Annecy \newline 
+    
+    \begin{flushright}
+        DUT INFO
+    \end{flushright}
+    
+     \begin{flushright}
+        Année 2016/2017
+    \end{flushright}
+    
+    \vfill 
+    \begin{flushleft}
+    \huge \textbf{Résumé : } \\
+    \normalsize Le secteur de l'industrie s'intéresse de plus en plus aux solutions modernes comme la réalité virtuelle. Afin de créer un nouveau module d'habilitation éléctrique, j'ai travaillé en collaboration avec le bureau d'études de Bouygues Energies et Services, pour développer une application lourde en réalité virtuelle à l'aide du moteur de jeu Unity et du langage C\#. \\
+    \end{flushleft}
+    
+    \vfill 
+    \begin{flushleft}
+    \huge \textbf{Mots clefs : } \vspace{2pt} \\
+    \normalsize Bouygues, Module, Habilitation, Electrique, Réalité, Virtuelle, Unity, 3D, C\#
+    \end{flushleft}
+    
+    \vfill 
+    \begin{flushleft}
+    \huge \textbf{Abstract : } \\
+    \normalsize There is a growing interest about virtual reality in the industry sector. In order to fulfil the need of a new electrical habilitation training, I worked in collaboration with the technical studies office of Bouygues Energies and Services, to develop a desktop application in virtual reality using the Unity game engine, and the C\# language.
+    \end{flushleft}
+    
+    \vfill 
+    \begin{flushleft}
+    \huge \textbf{Keywords : } \\
+    \normalsize Bouygues, Electrical, Habilitation, Training, Virtual, Reality, Unity, 3D, C\#
+    \end{flushleft}
+
+	\vfill
+    Palanca Jérôme \hfill Damas Luc
 \end{document}
