@@ -1,15 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.4.30)  30 MAY 2017 19:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300) (preloaded format=pdflatex 2017.5.31)  31 MAY 2017 11:55
 entering extended mode
- restricted \write18 enabled.
- file:line:error style messages enabled.
- %&-line parsing enabled.
-**Rapport.tex
-(./Rapport.tex
-LaTeX2e <2017/01/01> patch level 3
-Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
-(/usr/share/texmf-dist/tex/latex/base/article.cls
+**./Rapport.tex
+(Rapport.tex
+LaTeX2e <2017-04-15>
+Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size10.clo
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\base\size10.clo"
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -24,34 +21,76 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\generic\babel\babel.sty"
 Package: babel 2016/04/23 3.9r The Babel package
 
-(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/01/24 v3.3q English support from the babel system
-
-(/usr/share/texmf-dist/tex/generic/babel/babel.def
+*************************************
+* Local config file bblopts.cfg used
+*
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\generic\babel-french\frenchb.
+ldf"
+Language: frenchb 2017/01/30 v3.2g French support from the babel system
+ ("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\generic\babel\babel.def"
 File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen103
 )
-\l@canadian = a dialect from \language\l@american 
-\l@australian = a dialect from \language\l@british 
-\l@newzealand = a dialect from \language\l@british 
-))
-(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
+\l@french = a dialect from \language\l@nohyphenation 
 
-(/usr/share/texmf-dist/tex/latex/base/utf8.def
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `French' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=nohyphenation instead on input l
+ine 75.
+
+\l@acadian = a dialect from \language\l@french 
+\l@canadien = a dialect from \language\l@french 
+\FB@nonchar=\count88
+\FBcolonskip=\skip43
+\FBthinskip=\skip44
+Package babel Info: Making : an active character on input line 365.
+Package babel Info: Making ; an active character on input line 366.
+Package babel Info: Making ! an active character on input line 367.
+Package babel Info: Making ? an active character on input line 368.
+\FBguillskip=\skip45
+\FBguill@level=\count89
+\FB@everypar=\toks14
+\FB@Mht=\dimen104
+\mc@charclass=\count90
+\mc@charfam=\count91
+\mc@charslot=\count92
+\std@mcc=\count93
+\dec@mcc=\count94
+\listindentFB=\skip46
+\descindentFB=\skip47
+\labelwidthFB=\skip48
+\leftmarginFB=\skip49
+\parindentFFN=\dimen105
+\FBfnindent=\skip50
+)) ("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\carlisle\scalefnt.st
+y") ("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) ("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\base\utf8.def"
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/share/texmf-dist/tex/latex/base/t1enc.dfu
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -292,7 +331,7 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/share/texmf-dist/tex/latex/base/ot1enc.dfu
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -333,7 +372,7 @@ File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/share/texmf-dist/tex/latex/base/omsenc.dfu
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -357,79 +396,97 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2017/02/22 v2.0g Standard LaTeX package
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-(/usr/share/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2017/02/22 v2.0g Standard LaTeX file
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
-)
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-)
-(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+) ("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\generic\ifxetex\ifxetex.sty
+"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count88
-\Gm@cntv=\count89
-\c@Gm@tempcnt=\count90
-\Gm@bindingoffset=\dimen104
-\Gm@wd@mp=\dimen105
-\Gm@odd@mp=\dimen106
-\Gm@even@mp=\dimen107
-\Gm@layoutwidth=\dimen108
-\Gm@layoutheight=\dimen109
-\Gm@layouthoffset=\dimen110
-\Gm@layoutvoffset=\dimen111
-\Gm@dimlist=\toks17
-)
-(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+\Gm@cnth=\count95
+\Gm@cntv=\count96
+\c@Gm@tempcnt=\count97
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks18
+ ("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\geometry\geometry.cfg"
+))
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\lastpage\lastpage.sty"
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+) ("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\graphics\graphicx.sty
+"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\graphics-cfg\graphics.c
+fg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\graphics-def\pdftex.def
+"
 File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\generic\oberdiek\infwarerr.st
+y"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count91
+\Gread@gobject=\count98
 ))
-\Gin@req@height=\dimen112
-\Gin@req@width=\dimen113
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+) ("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+ ("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen116
+\captionmargin@=\dimen117
+\captionwidth=\dimen118
+\caption@tempdima=\dimen119
+\caption@indent=\dimen120
+\caption@parindent=\dimen121
+\caption@hangindent=\dimen122
 )
-(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+\c@ContinuedFloat=\count99
+)
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\generic\oberdiek\hobsub-hyper
+ref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\generic\oberdiek\hobsub-gener
+ic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -468,24 +525,22 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen114
-\Hy@linkcounter=\count92
-\Hy@pagecounter=\count93
-
-(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+\@linkdim=\dimen123
+\Hy@linkcounter=\count100
+\Hy@pagecounter=\count101
+ ("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count94
-
-(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+\Hy@SavedSpaceFactor=\count102
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 4374.
@@ -496,17 +551,16 @@ Package hyperref Info: Plain pages OFF on input line 4513.
 Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count95
-
-(/usr/share/texmf-dist/tex/latex/url/url.sty
+\c@Hy@tempcnt=\count103
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5104.
-\XeTeXLinkMargin=\dimen115
-\Fld@menulength=\count96
-\Field@Width=\dimen116
-\Fld@charsize=\dimen117
+\XeTeXLinkMargin=\dimen124
+\Fld@menulength=\count104
+\Field@Width=\dimen125
+\Fld@charsize=\dimen126
 Package hyperref Info: Hyper figures OFF on input line 6358.
 Package hyperref Info: Link nesting OFF on input line 6363.
 Package hyperref Info: Hyper index ON on input line 6366.
@@ -516,41 +570,69 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6383.
 Package hyperref Info: PDF/A mode OFF on input line 6388.
 LaTeX Info: Redefining \ref on input line 6428.
 LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count97
-\c@Item=\count98
-\c@Hfootnote=\count99
+\Hy@abspage=\count105
+\c@Item=\count106
+\c@Hfootnote=\count107
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
-\Fld@listcount=\count100
-\c@bookmark@seq@number=\count101
+\Fld@listcount=\count108
+\c@bookmark@seq@number=\count109
 
-(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\oberdiek\rerunfilecheck
+.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip43
-) (./Rapport.aux)
+\Hy@SectionHShift=\skip51
+)
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip52
+\f@ncyO@elh=\skip53
+\f@ncyO@erh=\skip54
+\f@ncyO@olh=\skip55
+\f@ncyO@orh=\skip56
+\f@ncyO@elf=\skip57
+\f@ncyO@erf=\skip58
+\f@ncyO@olf=\skip59
+\f@ncyO@orf=\skip60
+) (Rapport.aux
+
+Rapport.aux:19: Package babel Error: Unknown language `english'. Either you hav
+e
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help
+You may proceed, but expect unexpected results
+
+)
 \openout1 = `Rapport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Info: Redefining \degres on input line 32.
+LaTeX Info: Redefining \dots on input line 32.
+LaTeX Info: Redefining \up on input line 32.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -586,23 +668,27 @@ LaTeX Font Info:    ... okay on input line 16.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 32.
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count102
-\scratchdimen=\dimen118
+\scratchcounter=\count110
+\scratchdimen=\dimen127
 \scratchbox=\box26
-\nofMPsegments=\count103
-\nofMParguments=\count104
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count105
-\MPscratchDim=\dimen119
-\MPnumerator=\count106
-\makeMPintoPDFobject=\count107
-\everyMPtoPDFconversion=\toks19
-) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen128
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
+\everyMPtoPDFconversion=\toks20
+)
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\oberdiek\epstopdf-base.
+sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+ ("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -611,127 +697,223 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box27
-
-(/usr/share/texmf-dist/tex/latex/graphics/color.sty
+ ("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
-
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ ("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\graphics-cfg\color.cfg
+"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 16.
+Package hyperref Info: Link coloring ON on input line 32.
 
-(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+("D:\Data\Olivier PINON\MiKTeX\texmfs\install\tex\generic\oberdiek\gettitlestri
+ng.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count108
+\c@section@level=\count116
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
- (./Rapport.out) (./Rapport.out)
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+LaTeX Info: Redefining \nameref on input line 32.
+ (Rapport.out) (Rapport.out)
 \@outlinefile=\write3
 \openout3 = `Rapport.out'.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 40.
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--26
-
+Overfull \hbox (2.22168pt too wide) in paragraph at lines 35--49
+$[]$ $[]$ 
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+{D:/Data/Olivier PINON/MiKTeX/texmfs/data/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
+Underfull \hbox (badness 10000) in paragraph at lines 68--73
 
  []
 
+<img/logobyes.png, id=91, 270.00874pt x 142.5325pt>
+File: img/logobyes.png Graphic file (type png)
+ <use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 74.
+(pdftex.def)             Requested size: 81.00323pt x 42.76007pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 46.3601pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+Overfull \hbox (6.4055pt too wide) has occurred while \output is active
+ [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 74.
 
- []
+[2 <./img/logobyes.png>] (Rapport.toc
 
+Rapport.toc:1: Package babel Error: Unknown language `english'. Either you have
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
 
- []
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help
+You may proceed, but expect unexpected results
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
-
- []
-
-[2] (./Rapport.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
 )
 \tf@toc=\write4
 \openout4 = `Rapport.toc'.
 
- [3]
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+File: img/logobyes.png Graphic file (type png)
+ <use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 78.
+(pdftex.def)             Requested size: 81.00323pt x 42.76007pt.
+
+Overfull \hbox (6.4055pt too wide) has occurred while \output is active
+ [] 
+ []
+
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 78.
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 92.
+(pdftex.def)             Requested size: 81.00323pt x 42.76007pt.
+
+Overfull \hbox (6.4055pt too wide) has occurred while \output is active
+ [] 
+ []
+
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 92.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 126.
+(pdftex.def)             Requested size: 81.00323pt x 42.76007pt.
+
+Overfull \hbox (6.4055pt too wide) has occurred while \output is active
+ [] 
+ []
+
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 126.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 113--116
-
+Overfull \hbox (2.22168pt too wide) in paragraph at lines 131--145
+$[]$ $[]$ 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
+
+Overfull \hbox (6.4055pt too wide) in paragraph at lines 147--148
+[] 
+ []
+
+
+Overfull \hbox (6.4055pt too wide) in paragraph at lines 163--164
+[] 
+ []
+
+
+Package lastpage Warning: Rerun to get the references right on input line 181.
+
+
+AED: lastpage setting LastPage
 [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
- (./Rapport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 151.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
-Package rerunfilecheck Info: File `Rapport.out' has not changed.
-(rerunfilecheck)             Checksum: 25DB122A2CA73C1E520C7ECF0BA2ACB3;1323.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
+ (Rapport.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
+
+
+Package rerunfilecheck Warning: File `Rapport.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Rapport.out':
+(rerunfilecheck)             Before: 8CC8BA3F6BD45C501FE127A677DADDAD;1343
+(rerunfilecheck)             After:  8699B9B621243F20195031B58397391B;1342.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
- 6470 strings out of 493013
- 91335 string characters out of 6139317
- 190573 words of memory out of 5000000
- 9926 multiletter control sequences out of 15000+600000
- 9812 words of font info for 22 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 28i,5n,28p,510b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk
-> </home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk>
- </home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> 
-</home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> <
-/home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk> </
-home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk>
-Output written on Rapport.pdf (6 pages, 73188 bytes).
+ 8348 strings out of 495227
+ 125079 string characters out of 3181020
+ 220808 words of memory out of 3000000
+ 11522 multiletter control sequences out of 15000+200000
+ 11358 words of font info for 24 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 36i,16n,43p,512b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <D:\Data\Olivier PINON\MiKTeX\texmfs/data\fonts\pk\ljfour\jknappen\ec\dpi600
+\ecbx1200.pk> <D:\Data\Olivier PINON\MiKTeX\texmfs/data\fonts\pk\ljfour\jknappe
+n\ec\dpi600\ecbx1440.pk> <D:\Data\Olivier PINON\MiKTeX\texmfs/data\fonts\pk\ljf
+our\jknappen\ec\dpi600\ecbx1000.pk> <D:\Data\Olivier PINON\MiKTeX\texmfs/data\f
+onts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <D:\Data\Olivier PINON\MiKTeX\te
+xmfs/data\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <D:\Data\Olivier PINO
+N\MiKTeX\texmfs/data\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <D:\Data\O
+livier PINON\MiKTeX\texmfs/data\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk>
+
+Output written on Rapport.pdf (6 pages, 116009 bytes).
 PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
- 155 compressed objects within 2 object streams
+ 393 PDF objects out of 1000 (max. 8388607)
  28 named destinations out of 1000 (max. 500000)
- 161 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
 
