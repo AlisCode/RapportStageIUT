@@ -7,7 +7,7 @@
 \usepackage[T1]{fontenc}
 
 %%  Choisis la page et les marges 
-\usepackage[a4paper,top=3cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+\usepackage[a4paper,top=3cm,left=3cm,right=3cm,headsep=45pt,marginparwidth=1.75cm]{geometry}
 
 %% Importe les packages dont on a besoin dans le rapport
 \usepackage{lastpage}
@@ -16,22 +16,29 @@
 \usepackage[colorlinks=true, allcolors=blue]{hyperref}
 
 \usepackage{fancyhdr}
+
 \fancyhf{}
 \lhead{
-    \includegraphics[scale=0.3]{img/logobyes.png}
+    \includegraphics[scale=0.25]{img/logobyes.png}
+    \includegraphics[scale=0.17]{img/logo-bouygues-construction.jpg}
 }
-
-\rhead{TestRight}
-\cfoot{
-    \noindent\rule{0.725\paperwidth}{0.4pt} \\
+\rhead{
+    \includegraphics[scale=0.1]{img/logo-univ.png}
+    \includegraphics[scale=0.0425]{img/logo-iut.png}
+    \includegraphics[scale=0.31]{img/logo-info.png}
+}
+\renewcommand{\footrulewidth}{0.4pt}
+\fancyfoot{
     Pinon Olivier - IUT Annecy - Département Informatique - 2016/2017
     \hfill
     \thepage{} / \pageref*{LastPage}
 }
 
+
 \begin{document}
 
-    \pagestyle{empty}
+    \pagestyle{fancy}
+    \thispagestyle{empty}
     \noindent
     \begin{minipage}{.5\textwidth}
         Bouygues Energies et Services \\
@@ -59,66 +66,115 @@
     Palanca Jérôme  \hfill Damas Luc
 
  	\newpage 
-    \pagestyle{fancy}
- 	
      % Remerciements 
-    \huge \textbf{Remerciements} \vspace{5pt} \\
-   
+    \huge \textbf{Remerciements} \vspace{10pt} \\
+
     \normalsize
     Je souhaite tout d'abord remercier Monsieur Jérôme PALANCA, mon tuteur de stage, pour la confiance, l'écoute et la sympathie dont il a fait preuve à mon égard. Il a su m'aider à comprendre les problèmes de nature inconnue qui m'étaient posés et a su accepter mes propositions tout en me proposant des améliorations. Le suivi quotidien qu'il a effectué m'a permis de constamment garder en tête les objectifs et ainsi de me guider pas à pas dans le projet. \vspace{10pt} \\
-    J'adresse également mes remerciements à Monsieur Renaud PAYERNE, qui est à l'origine du projet peu commun sur lequel j'ai travaillé, et m'a permis d'obtenir le stage. \vspace{10pt} \\
+
+    J'adresse aussi mes remerciements à Monsieur Renaud PAYERNE, qui est à l'origine du projet peu commun sur lequel j'ai travaillé, et m'a permis d'obtenir le stage. \vspace{10pt} \\
 	Merci également à Monsieur Luc DAMAS, pour son suivi en cours de stage qui m'a donné de précieuses indications sur le contenu et les axes à souligner dans mon rapport et ma soutenance. \vspace{10pt} \\
+
     Finalement, je tiens à remercier l'ensemble du bureau d'études de Bouygues Energies et Services. Merci à cette équipe qui a su m'accueillir malgré nos travaux très différents, et qui m'ont fait passé un très bon stage dans la bonne humeur quotidienne du bureau. Ils ont su me donner un aperçu du monde du travail très plaisant, à la fois sérieux dans les heures de travail, et détendu dans les moments de pause. \vspace{10pt} \\
     Grâce à votre confiance, à vos réponses, à votre avenance, j'ai pu apprendre beaucoup sur le monde professionnel. Travailler à vos côtés a été un véritable plaisir, et une experience très enrichissante. \\
     
     \newpage
     % Table des matières 
     \tableofcontents
-    
+
     \newpage 
     % Introduction 
     \huge \textbf{Introduction} \vspace{20pt} \\
     \normalsize
-    Afin de finaliser mon diplôme de DUT Informatique à l'IUT d'Annecy, j'ai effectué mon stage d'une durée de 3 mois dans une entreprise qui m'intéréssait. Mon choix s'est naturellement porté vers le secteur de l'industrie, puisque je souhaite continuer mes études dans ce secteur. \\
+    Afin de finaliser mon diplôme de DUT Informatique à l'IUT d'Annecy, j'ai effectué mon stage d'une durée de 3 mois dans une entreprise de mon choix, qui s'est naturellement porté vers le secteur de l'industrie, puisque je souhaite continuer mes études dans une école d'ingénieur. \\
 
-    Par l'intermédiaire de Madame Nathalie Gruson, j'ai répondu à une annonce que l'on nous avait transmis par mail. Cette annonce m'a particulièrement intéressé puisqu'elle proposait de travailler sur de la réalité virtuelle en utilisant Unity, un moteur de jeu que j'ai l'habitude d'utiliser. \\
+    Par l'intermédiaire de madame Nathalie Gruson, j'ai répondu à une annonce que l'on nous avait transmis par mail. Cette annonce m'a particulièrement intéressé puisqu'elle proposait de travailler sur de la réalité virtuelle en utilisant Unity, un moteur de jeu que j'ai l'habitude d'utiliser, et qui est une technologie que j'affectionne particulièrement. \\
 
-    L'entreprise n'a rien à voir avec le secteur de l'informatique, et c'est justement cette différence avec les autres offres de stage qui m'a poussé à candidater, afin de découvrir un autre monde que le web que l'on pratique beaucoup à l'IUT. \\
+    L'entreprise n'a rien à voir avec le secteur de l'informatique pure, et c'est justement cette différence avec les autres offres de stage qui m'a poussé à candidater, afin de découvrir un autre monde que les sites et applications web et mobiles, que l'on pratique beaucoup à l'IUT. \\
     
-    Bouygues Energies et Services, abrégé BYES, m'a proposé de travailler sur un nouveau module, qui permettrait d'aider les techniciens à se former à la maintenance de cellules dites HT (Haute Tension), en mettant à profit les nouvelles technologies, notamment la réalité virtuelle. \\
+    Bouygues Energies et Services m'a proposé de travailler sur un nouveau module, qui permettrait d'aider leurs techniciens à se former à la maintenance de cellules dites HT (Haute Tension), en mettant à profit les nouvelles technologies, notamment la réalité virtuelle. \\
 
     Dans la première partie, je présenterais l'entreprise qui m'a accueilli. Puis, je présenterai le besoin et la mission que l'on m'a assigné. J'expliquerais ensuite la phase d'étude et de réalisation du projet, et je finirai par un bilan de l'experience enrichissante qu'a été ce stage. \\
 
     \newpage 
-    % Présentation de l'entreprise 
-    \section{Présentation de l'entreprise}
+    % Présentation générale 
+    \section{Présentation générale de l'entreprise}
+
+    \subsection{Le groupe Bouygues et ses filiales}
+
+    Bouygues est un groupe industriel diversifié français fondé en 1952 par Francis Bouygues et dirigé par son fils Martin Bouygues depuis 1989. \\
+
+    Le groupe est structuré autour de trois activités : le secteur BTP (Bouygues Construction,
+Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Telecom) et les médias (TF1). Chaque sous-groupe comprend des filales. Bouygues Energies et Services, par exemple, est une filiale du sous-groupe Bouygues Construction, lui même appartenant au groupe Bouygues. Il est à noter que Bouygues Energies et Services a été renommé en 2013 ; Il s'agissait auparavant de l'entreprise ETDE, rachetée par Bouygues Construction en 1984. \\
+
+    schémaGroupeBouygues \\
+    
+    Le groupe Bouygues est un des leaders du marché dans tous les secteurs où il possède des groupes. En 2015, le chiffre d’affaires du groupe Bouygues s’élève à 32,428 milliards d’euros, et celui de Bouygues Energies Services s'élève à 925 568 30 millions d'euros. \\
+
+    \subsection{Produits et services}
+ 
+    \subsubsection{L'activité de Bouygues Energies et Services}
+    Bouygues Energies et Services est une filiale dont l'activité est découpée sur 4 marchés principaux : \\
+    
+    \begin{itemize}
+
+    \item Les infrastructures numériques : \\
+        
+        Bouygues Energies et Services connecte les territoires afin que tous puissent bénéficier des avantages du tout numérique. Grâce à son savoir-faire et son expertise mises au service de la création et la modernisation des infrastructures de télécommunication et du numérique, l'entreprise relie et dynamise des territoires auparavant isolés. \\
+
+    \item Les villes et collectivités : \\
+
+        La population mondiale devenant de plus en plus urbaine, et le mouvement s'accélérant, la ville de demain doit être plus accueillante, économe, connectée et sécurisée, de façon à allier la qualité de vie avec une empreinte écologique faible. Bouygues Energies et Services est un des acteurs de cette transition qui concerne les collectivités. \\
+
+    \item Le tertiaire et l'industrie: \\
+
+        Afin de les aider à accroître leur compétitivité, ou à optimiser leurs facture énergétique, Bouygues Energies et Services propose des solutions globales aux entreprise industrielles, dans le but de permettre d'améliorer les process mis en place. \\
+
+    \item L'énergie et le transport : \\
+
+        L'entreprise travaille en collaboration avec de grands clients et services publics, en proposant de nouvelles solutions techniques permettant de réduire les consommations et d'augmenter la qualité de nos transports et éclairages. 
+
+    \end{itemize}
+    \vspace{5pt}
+    
+    Le rôle des techniciens de Bouygues Energies et Services est de travailler en collaboration avec d’autres bureaux d’étude dont les spécialités sont le génie climatique et l’architecture, afin de concevoir le bâtiment et ses fonctionnalités avant d’envoyer les plans et de le construire sur le terrain. Fréquemment (presque toutes les semaines), les ingénieurs et chefs de projets sont amenés à se déplacer sur le terrain pour faire un point sur l’avancée des travaux, et discuter de l'implémentation des nouvelles solutions techniques envisagées par les bureaux d'étude. \\
+ 
+    \subsubsection{Les grands projets de l'entreprise}
+
+    Comme expliqué précédemment, l'entreprise travaille dans de gros projets du secteur public. Le domaine d'expertise de Bouygues Energies et Services est l'éléctricité, et notamment les problématiques existantes autour du stockage et du transport d'énergie avec des pertes toujours plus faibles. \\
+
+    Dans le bureau d'étude dans lequel j'ai travaillé, les techniciens et ingénieurs sont en train d'étudier et de mettre en place de nouvelles solutions techniques sur des projets réels comme les stations de métro de Lyon (Lignes 1 et 2), l’autoroute A9 vers Montpellier, ou encore la nouvelle université de Marseille. \\
+
     \subsection{Implantation et locaux}
     \subsubsection{Bouygues Energies et Services en France et dans le monde}
 
-    La société Bouygues Energies et Services est implantée dans 25 pays d’Europe, d’Afrique et d’Amérique du Nord, suivant 7 zones géographiques (France IDF, France Ouest, France Est/Italie, Royaume Uni, Suisse/Allemagne, Canada, Afrique). Comptant près de 200 implantations sur le territoire Français, l’entreprise est établie assez largement. \\
+    Le groupe Bouygues est présent dans plus de 100 pays sur les 5 continents. La société Bouygues Energies et Services, quant à elle, est implantée dans 25 pays d’Europe, d’Afrique et d’Amérique du Nord, suivant 7 zones géographiques (France IDF, France Ouest, France Est/Italie, Royaume Uni, Suisse/Allemagne, Canada, Afrique). Comptant près de 200 implantations sur le territoire Français, dont 35 dans notre zone (France Est/Italie), l’entreprise est donc établie assez largement et dans le monde entier. \\
 
     imgFrance \\
     imgZoneGeographiqueFrance \\
 
     \subsubsection{Les locaux de l'entreprise}
 
-    Dans le cadre de mon stage, j’ai travaillé dans les locaux du technopôle Savoie Technolac, plus précisément dans le bureau d’études. \\
+    Dans le cadre de mon stage, j’ai travaillé dans les locaux du technopôle Savoie Technolac, plus précisément dans l'un des bureaux d’étude. \\
 
     imgLocaux \\
     imgBureauDEtudes \\
     imgAtelier \\
     imgSalleReunion \\
 
-    \subsection{L'activité de l'entreprise}
-
-    Anciennement appelée ETDE, l’entreprise est renommée “Bouygues Energies et Services” en 2013. C’est une filiale de Bouygues Construction, groupe Bouygues. \\
- 
-    Le groupe Bouygues Construction est un des leaders sur le marché du BTP français. C’est une référence dans la création de bâtiments dits “intelligents”, peu énergivores et tournés vers le futur. Bouygues Energies et Services est une entreprise de ce groupe dont la spécialité est l’électricité. Les techniciens et ingénieurs de la société travaillent tous les jours à l’étude de quelques gros projets comme les stations de métro de Lyon, l’autoroute A9 vers Montpellier, ou encore la nouvelle université de Marseille. \\
- 
-    Le rôle de l’entreprise est divisé en plusieurs parties, les électriciens de Bouygues Energies et Services travaillent en collaboration avec d’autres bureaux d’étude dont les spécialités sont le génie climatique et l’architecture, afin de concevoir le bâtiment et ses fonctionnalités avant d’envoyer les plans et de le construire sur le terrain. Fréquemment (presque toutes les semaines), les ingénieurs et chefs de projets sont amenés à se déplacer sur le terrain pour voir l’avancée des travaux. \\
-
     \subsection{Le personnel}
+
+    Le groupe Bouygues entier emploie plus de 100 000 collaborateurs dont 44\% à l’international. Bouygues Energies et Services est une entreprise d'environ 3800 collaborateurs. \\
+
+    Au sein des locaux dans lesquels j'ai travaillé dans le cadre de mon stage, nous étions environ 60 personnes (les effectifs varient d'une semaine sur l'autre à cause des projets qui commencent et qui terminent).  \\
+
+    Le service informatique n'est pas interne à l'entreprise. En effet, le groupe Bouygues a décidé de faire de l'IT Outsourcing, et donc de ne pas engager d'administrateur système dans le personnel de l'entreprise. La gestion est donc effectuée par une autre filiale du groupe Bouygues, qui est appellée Structis. \\
+
     \subsection{L'équipe de travail}
+
+    Durant la totalité de mon stage, j'ai travaillé en collaboration unique avec mon tuteur, Jérôme Palanca. Ce dernier n'ayant que peu de connaissances techniques sur l'utilisation des moteurs de jeu et le développement objet, c'est lui qui se chargeait de la modélisation 3D des éléments, pendant que j'étais en charge de la conception objet et du développement réel de l'application. \\
+    
+    Le projet était effectué en parallèle du reste de l'activité du bureau d'études : j'ai eu une dizaine de collègues dans mon bureau de type open space, ce qui m'a permis de voir l'atmosphère de travail dans une équipe. \\
     
     % Présentation du besoin
     \section{Présentation du besoin}
@@ -147,10 +203,9 @@
     \section{Annexes}
     
     \newpage 
-    \pagestyle{empty}
     % Page de fin 
-    
     \normalsize
+    \thispagestyle{empty}
     \noindent
     \begin{minipage}{.5\textwidth}
         Bouygues Energies et Services \\
