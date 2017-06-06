@@ -82,6 +82,7 @@
     
     \newpage
     % Table des matières 
+    \setcounter{tocdepth}{2}
     \tableofcontents
 
     \newpage 
@@ -109,8 +110,10 @@
     Le groupe est structuré autour de trois activités : le secteur BTP (Bouygues Construction,
 Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Telecom) et les médias (TF1). Chaque sous-groupe comprend des filales. Bouygues Energies et Services, par exemple, est une filiale du sous-groupe Bouygues Construction, lui même appartenant au groupe Bouygues. Il est à noter que Bouygues Energies et Services a été renommé en 2013 ; Il s'agissait auparavant de l'entreprise ETDE, rachetée par Bouygues Construction en 1984. \\
 
+    \begin{figure}[H]
     \includegraphics[scale=0.45]{img/groupeBouygues}
-    
+    \end{figure}
+
     Le groupe Bouygues est un des leaders du marché dans tous les secteurs où il possède des groupes. En 2015, le chiffre d’affaires du groupe Bouygues s’élève à 32,428 milliards d’euros, et celui de Bouygues Energies Services s'élève à 925 568 300 euros. \\
 
     \subsection{Produits et services}
@@ -197,7 +200,7 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
         \caption{Organigramme du bureau d'études de Bouygues Energies et Services - Annexe 1}
     \end{figure}
 
-    Le service informatique n'est pas interne à l'entreprise. En effet, le groupe Bouygues a décidé de faire de l'IT Outsourcing\footnote{Avoir un parc informatiqué externe à l'entreprise, généralement géré par une entreprise tierce}, et donc de ne pas engager d'administrateur système dans le personnel de l'entreprise. La gestion informatique est donc effectuée par une autre filiale du groupe Bouygues, qui est appellée Structis. \\
+    Le service informatique n'est pas interne à l'entreprise. En effet, le groupe Bouygues a décidé de faire de l'IT Outsourcing\footnote{Avoir un parc informatique externe à l'entreprise, généralement géré par une entreprise tierce}, et donc de ne pas engager d'administrateur système dans le personnel de l'entreprise. La gestion informatique est donc effectuée par une autre filiale du groupe Bouygues, qui est appellée Structis. \\
 
     \subsection{L'équipe de travail}
 
@@ -215,7 +218,18 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
 
         C'est un examen d'une trentaine de minutes, qui est supervisé par un maître de formation qui fait passer chaque candidat à l'habilitation, un par un. De plus, l'examen nécéssite d'être effectué dans des conditions presques réelles avec des machines qui sont à la fois coûteuses et qu'il faut maintenir. \\
 
-        [ photos installation machines pour l'habilitation ] \\
+        \begin{figure}[H]
+            \centering
+            \includegraphics[scale=0.065]{img/localHabilitation}
+            \caption{Le local d'habilitation vu de l'exterieur}
+        \end{figure}
+
+        \begin{figure}[H]
+            \centering
+            \includegraphics[scale=0.05]{img/habilitation1}
+            \includegraphics[scale=0.05]{img/habilitation2}
+            \caption{Intérieur du local, deux machines sur lesquelles on effectue la formation}
+        \end{figure}
 
         Cette habilitation peut être préparée par la lecture d'un manuel de préparation à l'habilitation électrique, dont on m'a confié un exemplaire dans le but de mieux appréhender les aspects techniques, et comprendre ce sur quoi j'allais travailler.
 
@@ -229,13 +243,12 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
 
     \subsection{Les fonctionnalités de l'application}
 
-    Durant la réalisation du projet, aucun listing de fonctionnalités préalable n'a été fait, car cela nécéssitait trop de temps. L'application en elle-même n'est qu'un protoype visant à démontrer l'efficacité et l'intérêt d'un nouveau module d'habilitation éléctrique. Nous pouvons cependant effectuer une analyse rétrospective de l'application, et définir les acteurs principaux du système et les actions qu'ils peuvent effectuer dans la simulation. \\
+    Durant la réalisation du projet, aucun listing de fonctionnalités préalable n'a été fait, car cela nécéssitait trop de temps. L'application en elle-même vise à démontrer l'efficacité et l'intérêt d'un nouveau module d'habilitation éléctrique, qui est à perfectionner. Nous pouvons cependant effectuer une analyse rétrospective de l'application, et définir les acteurs principaux du système et les actions qu'ils peuvent effectuer dans la simulation. \\
 
-    UMLFormé \\
-
-    UMLFormateur \\
-
-    UML \\
+    \begin{figure}[H]
+        \includegraphics[scale=0.5]{img/UseCases}
+        \caption{Diagramme de cas d'utilisation de l'application - Annexe 2}
+    \end{figure}
 
     \subsection{Les solutions utilisées}
 
@@ -271,7 +284,7 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
         \caption{C\# / JavaScript}
     \end{figure}
 
-    Le choix de l'IDE\footnote{Integrated Development Environment, EDI en Français, se dit d'un logiciel contenant une suite d'outils permettant de développer dans un language informatique} que j'ai utilisé, Visual Studio Code, a été fait suite à une recommendation de mon tuteur, que j'ai approuvé puisque beaucoup de mes collègues à l'IUT m'avaient déjà proposé d'apprendre à l'utiliser. Cet outil très puissant, extrêmement modulable, et adapté au développement pour Unity a été une des très bonne découvertes que j'ai pu faire durant mon stage, et je l'utilise désormais comme mon IDE pour tous les languages dans mes projets personnels. Nous avons volontairement décidé de ne pas utiliser Visual Studio pour Windows ; Ce logiciel aurait coûté une licence en plus pour mon projet car Bouygues Energies et Services fait plus d'un million d'euros de chiffre d'affaires, et que j'ai personnellement préféré apprendre à utiliser une technologie que je n'avais pas encore utilisé. \\
+    Le choix de l'IDE\footnote{IDE : Integrated Development Environment, EDI en Français, se dit d'un logiciel contenant une suite d'outils permettant de développer dans un language informatique} que j'ai utilisé, Visual Studio Code, a été fait suite à une recommendation de mon tuteur, que j'ai approuvé puisque beaucoup de mes collègues à l'IUT m'avaient déjà proposé d'apprendre à l'utiliser. Cet outil très puissant, extrêmement modulable, et adapté au développement pour Unity a été une des très bonne découvertes que j'ai pu faire durant mon stage, et je l'utilise désormais comme mon IDE pour tous les languages dans mes projets personnels. Nous avons volontairement décidé de ne pas utiliser Visual Studio pour Windows ; Ce logiciel aurait coûté une licence en plus pour mon projet car Bouygues Energies et Services fait plus d'un million d'euros de chiffre d'affaires, et que j'ai personnellement préféré apprendre à utiliser une technologie que je n'avais pas encore utilisé. \\
 
     \begin{figure}[H]
         \centering
@@ -281,11 +294,11 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
         \caption{Visual Studio Code / Visual Studio}
     \end{figure}
 
-    Pour la modélisation 3D, nous avons choisi d'utiliser SketchUp, car c'est le logiciel que mon tuteur savait utilisé, et qu'il est très facile à prendre à main, j'ai donc également pu m'essayer au dessin assisté par ordinateur, par exemple en m'exerçant à reproduire un BAPI\footnote{Bloc Autonome Portatif d'Intervention, sorte de grosse lampe torche que l'on trouve dans les sous-stations} dans le logiciel SketchUp avant de l'importer sous Unity \\
+    Pour la modélisation 3D, nous avons choisi d'utiliser SketchUp, car c'est le logiciel que mon tuteur savait utilisé, et qu'il est très facile à prendre à main, j'ai donc également pu m'essayer au dessin assisté par ordinateur, par exemple en m'exerçant à reproduire un BAPI\footnote{BAPI : Bloc Autonome Portatif d'Intervention, sorte de grosse lampe torche que l'on trouve dans les sous-stations} dans le logiciel SketchUp avant de l'importer sous Unity \\
 
     \begin{figure}[H]
         \centering
-        \includegraphics[scale=0.5]{img/logo-skp}
+        \includegraphics[scale=0.5]{img/Logo-skp}
         \caption{Google SketchUp}
     \end{figure}
 
@@ -307,21 +320,108 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
 
     \subsection{Conception du projet}
 
+    \subsubsection{Le problème de la conception objet}
+
     La plus grosse difficulté du projet, à mon goût, a été de suivre le cycle de développement agile que nous avons mis en place, sans avoir constitué un réel cahier des charges au début du stage. Nous avons mis en place une trame Trello, mais cette dernière ne permettait pas de définir une conception objet valable. En effet, même si mon tuteur m'a souvent dit de \"voir loin\" pour le développement, pour chaque partie du système, il était possible que le besoin, que je ne pouvais pas prévoir, change d'une heure sur l'autre. La phase de conception a donc été très compliquée pour moi et a entraîné du retard sur la phase de réalisation. \\
     
-    Chaque fois qu'un nouveau problème m'était posé, je prenais du temps pour effectuer un croquis, sorte de schéma semblable à de l'UML. Une fois cette première réflexion effectuée, je faisais valider le principe par mon tuteur afin qu'il comprenne comment j'allais résoudre le problème. Je procédais ensuite à la réalisation d'un diagramme UML (très souvent un diagramme de classe). Pour la réalisation des cellules et transformateurs haute tension, qui ont un fonctionnement bien précis, il a été fréquent que je réalise un diagramme d'état. \\ 
+    Chaque fois qu'un nouveau problème m'était posé, je prenais du temps pour effectuer un croquis, sorte de schéma semblable à de l'UML. Une fois cette première réflexion effectuée, je faisais valider le principe par mon tuteur afin qu'il comprenne comment j'allais résoudre le problème. Je procédais ensuite à la réalisation d'un diagramme UML (très souvent un diagramme de classe, mais aussi un diagramme d'activité). Pour la réalisation des cellules et transformateurs haute tension, qui ont un fonctionnement bien précis, il a été fréquent que je réalise un diagramme d'état. \\ 
+
+    \subsubsection{Conceptualisation des systèmes}
+
+    \paragraph{Le système de cellules}
+
+    Les premiers éléments qui ont été reproduits dans la simulation sont les cellules à haute tension. Une cellule est à la fois une source d'énergie et prend sa source d'énergie sur une cellule. Chaque cellule HT est spéciale et définie dans la documentation du projet. \\
+
+    Chaque cellule a sa propre implémentation des fonctions d'animations, car les cellules ne fonctionnent pas toutes selon le même schéma. Certaines ont des disjoncteurs, d'autres ont seulement des interupteurs, voire aucun des deux. \\
+
+    Pour la simulation, il a été défini un type de cellule spéciale, nommée arrivée EDF. Cette dernière représente le courant délivré, qui alimente en continu. Il faut noter que cette arrivée peut être coupée, afin que le formateur puisse simuler une coupure de courant pendant l'intervention. \\
+
+    \begin{figure}[H]
+        \caption{Diagramme de classe du système de cellules - Annexe 3}
+    \end{figure}
+
+    De plus, j'ai réalisé la simulation du fonctionnement des cellules à haute tension en me basant sur un diagramme d'activité, car ces machins sont utilisées en suivant un processus très précis, parfaitement décrit par un diagramme d'activité. 
+
+    \begin{figure}[H]
+        \caption{Diagramme d'activité représentant le fonctionnement d'une cellule haute tension - Annexe 4}
+    \end{figure} 
+
+    \paragraph{Le système de clé / serrures}
+
+    Le système de clé a été une nécéssité rapidement dans le projet. Il permet de bloquer les intéractions possibles avec une cellule si cette dernière n'a pas été sécurisée. Ce système reproduit exactement celui de la réalité. \\
+
+    Les serrures sont identifiées par leur nom, afin de faciliter l'utilisation de ces classes dans les différentes scènes d'Unity. Le système de cellules et de cadenas se basent sur l'utilisation de ces serrures. \\
+
+    Les clés, quant à elles, sont uniquement des objets animés reliés aux serrures. 
+    Le fonctionnement a été entièrement expliqué dans la documentation du projet. \\
+    
+    \begin{figure}[H]
+        \caption{Diagramme de classe du système de serrures et clés - Annexe 5}
+    \end{figure}
+
+    \paragraph{Le système de transformateurs}
+
+    Les transformateurs font partie des derniers objets à avoir été implémenté. Dans la situation réelle, ce sont eux qui se chargent de distribuer le courant issu des cellules haute tension. \\
+
+    Une phase de conception a été nécéssaire afin de reproduire le fonctionnement de ces transformateurs. Une fois de plus, le fonctionnement de ces derniers est décrit dans la documentation technique du projet. \\
+
+    \begin{figure}[H]
+        \caption{Diagramme de classe du système de transformateur - Annexe 6}
+    \end{figure}  
 
     \subsection{Réalisation du projet}
 
+    \subsubsection{Déroulement de la phase de réalisation}
     Beaucoup de retard a été pris sur la réalisation du projet. En effet, la conception n'étant pas possible à effectuer correctement m'a poussé à revenir plusieurs fois sur les mêmes décisions. \\
 
     La réalisation du projet a été faite suivant une méthode semblable à la méthode Scrum, vue en cours. Chaque jour, je prenais 5 minutes pour discuter avec mon tuteur du travail restant à effectuer, des machines et des interactions qu'il fallait reproduire, et de ce que je pensais réussir à finir dans la journée. Cette sorte de mélée était importante pour garder en tête les objectifs du projet, et me fixer chaque jour un nouveau point à atteindre. \\
 
     Chaque fois que j'avais un doute, ou besoin d'une information concernant une machine que je ne comprenais pas, ou une interaction à animer, je pouvais contacter mon tuteur de stage par l'intermédiaire de Lync\footnote{Logiciel Microsoft permettant la communication intra-entreprise}. \\
 
-    Chaque partie du projet terminée était soumise à validation par mon tuteur. Il a été décidé également de mettre en place un système de sauvegarde hebdomadaire sur le serveur interne de l'entreprise, permettant de mettre en place un système de versionning\footnote{Se dit d'un système capable de gérer plusieurs versions du développement d'un logiciel, permettant le travail à plusieurs et l'accès rapide au code d'une version antérieure} puisque nous n'avons pas utilisé Git ou SVN\footnote{Git et SVN, par exemple, sont deux systèmes de versionning} à cause du manque de serveur interne à l'entreprise. \\
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.5]{img/logo-lync}
+        \caption{Microsoft Lync}
+    \end{figure}
 
-    Vers la moitié du stage, j'ai eu également une démonstration de mon projet à faire auprès de monsieur Payerne, qui a apprécié le rendu graphique qu'il a vu, et a pu me faire quelques retours. \\
+    Chaque partie du projet terminée était soumise à validation par mon tuteur. Il a été décidé également de mettre en place un système de sauvegarde hebdomadaire sur le serveur interne de l'entreprise, permettant de mettre en place un système de versionning\footnote{Se dit d'un système capable de gérer plusieurs versions durant la phase de développement d'un logiciel, permettant le travail à plusieurs collaborateurs et l'accès rapide au code d'une version antérieure} puisque nous n'avons pas utilisé Git ou SVN\footnote{Git et SVN, par exemple, sont deux systèmes de versionning} à cause du manque de serveur interne à l'entreprise. \\
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.5]{img/logo-git}
+        \includegraphics[scale=0.15]{img/logo-svn}
+        \caption{Git et SVN}
+    \end{figure}
+
+    J'ai donc réalisé un script Batch\footnote{Equivalent sous Windows pour les scripts Shell, sorte de petits programmes permettant l'automatisation de tâches systèmes simples} qui a permit d'automatiser la sauvegarde du projet sur le serveur, en respectant les contraintes liées aux projets Unity, c'est à dire en gardant la structure de dossier adéquat. \\
+
+    Vers la moitié du stage, j'ai effectué une démonstration de mon projet auprès de monsieur Renaud Payerne, le chef de projet. Ce dernier a apprécié le rendu graphique, et m'a fait quelques retours sur les attentes qu'il avait par rapport au projet. \\
+
+    \subsubsection{Les difficultés de la réalisation}
+
+    \paragraph{Le système de corde}
+
+    Afin de reproduire le fonctionnement des appareils électriques, il faut également créer le cordon qui relie l'appareil à sa prise. L'utilisation du moteur physique d'Unity pour simuler une corde a été un vrai souci sur lequel j'ai passé une semaine entière de développement. \\
+
+    La solution est triviale à conceptualiser, mais compliquée à mettre en place. En effet, dans un moteur physique, nous pouvons représenter une corde par une suite de corps reliés les uns aux autres par des jointures qui agissent comme des élastiques. \\
+
+    Pour résoudre le problème, j'ai donc crée un script utilisable dans l'éditeur d'Unity qui, une fois l'objet de la corde séléctionné, genère les liaisons physiques adéquates. \\ 
+
+    \begin{figure}[H]
+        \caption{Système de corde dans l'éditeur Unity}
+    \end{figure}
+
+    \paragraph{Les objets portables par l'utilisateur}
+
+    De même, les objets portés par l'utilisateur (comme la clé plate ou la manivelle), ont été un véritable problème à implémenter dans l'application. Ces objets sont soumis au moteur physique d'Unity, afin de garantir le réalisme. \\
+
+    Le problème peut être solutionné de plusieurs façons. J'ai d'abord choisi de me pencher sur la solution d'une jointure physique de type élastique avec un objet invisible, afin de faire en sorte que l'objet suive les déplacements de l'utilsateur dans la simulation. \\
+
+    Déçu par le manque de réalisme de cette solution qui n'avait pas le rendu graphique voulu, j'ai ensuite crée mon propre système afin de pouvoir porter les objets dans le moteur de jeu. Pour résumer le fonctionnement qui est détaillé dans la documentation du projet, on fait en sorte que l'objet bouge tout le temps vers une position cible qui est définie selon l'endroit où l'utilisateur regarde. En annulant les effets du moteur physique sur l'objet, on a ainsi une représentation avec un rendu convenable.
+
+    \begin{figure}[H]
+        \caption{Dans la simulation, l'utilisateur peut porter des objets.}
+    \end{figure}
 
     \subsection{Les tests du projets}
 
@@ -329,10 +429,22 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
 
     \subsection{Déploiement de l'application}
    
-    Le projet n'a pas été déployé sur un serveur réellement, puisqu'il est toujours en développement et que le projet lui-même consiste à faire un prototype de ce que pourrait être un module d'habilitation éléctrique en réalité virtuelle. \\
+    Le projet n'a pas été déployé réellement pour l'instant, puisqu'il est toujours en développement et que nous n'avons pas encore réellement implémenté la réalité virtuelle dans l'application, par manque de matériel et de temps. \\
 
-    Il est à noter qu'un système de build\footnote{Export d'une version executable de l'application développée} hebdomadaire a été mis en place : mon tuteur souhaite une version utilisable de l'application, toujours à disposition sur le serveur. Chaque fin de semaine, en plus de la sauvegarde du projet sur le serveur, j'effectuais donc un export de l'application au format éxecutable. \\
+    Il est à noter qu'un système de build\footnote{Export d'une version executable de l'application développée} hebdomadaire a été mis en place : mon tuteur souhaite qu'une version \"utilisable\" de l'application en développement soit toujours à sa disposition. Chaque fin de semaine, en plus de la sauvegarde du projet sur le serveur, j'effectuais donc un export de l'application au format éxecutable. \\
     
+    Pour apporter ma contribution à la continuité du développement de l'application, j'ai rédigé une documentation assez précise d'une cinquantaine de pages, en plus d'avoir commenté le code, et d'avoir exporté une documentation en utilisant l'outil Doxygen. \\
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics{img/logo-doxygen}
+        \caption{Doxygen, outil de documentation pour C\#}
+    \end{figure}
+
+    \begin{figure}[H]
+        \caption{Captures d'écran de la documentation fournie à l'entreprise}
+    \end{figure}
+
     % Bilan
     \section{Bilan}
     
@@ -366,9 +478,9 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
 
     La technologie utilisée, le travail que j'ai réalisé, le rythme que j'ai adopté, toutes ces choses ont permis de confirmer mon orientation pour mon projet d'études, mais également mon projet professionnel. Je me suis réellement épanoui dans l'univers où j'ai travaillé, et je souhaite vraiment continuer dans la voie du développement d'applications lourdes, utiliser des moteurs de jeu ou des API graphiques de plus bas niveau. J'ai également découvert mon réel intérêt pour les technologies nouvelles dans l'informatique, comme par exemple la réalité virtuelle. \\
 
-    Le point négatif du stage, la phase de conception qui n'a pas été réalisée correctement, m'aura montré l'intérêt crucial de la définition du cahier des charges préalable à la mise en oeuvre du projet. J'éprouve également quelques regrets dans le fait de ne pas avoir d'application réellement terminée à ajouter à mon CV, et d'avoir fait uniquement un prototype d'une application qui sera certainement terminée par une autre équipe, si les moyens y sont mis. J'aurais vraiment aimé participer à la phase de déploiement et de maintenance du projet, qui pour moi sont des parties tout aussi importantes que la conception et la réalisation. \\
+    Le point négatif du stage, la phase de conception qui n'a pas été réalisée correctement, m'aura appris beaucoup sur l'intérêt crucial de la définition du cahier des charges préalable à la mise en oeuvre du projet. J'éprouve également quelques regrets dans le fait de ne pas avoir d'application réellement terminée à ajouter à mon CV. Cette application, qui sera certainement terminée par une autre équipe, est trop incomplète pour être utilisée en production. J'aurais vraiment aimé participer à la phase de déploiement et de maintenance du projet, qui pour moi sont des parties tout aussi importantes que la conception et la réalisation, et qui rendrait mieux compte selon moi du métier d'éditeur de logiciels. \\
 
-    Bien qu'il reste à l'état de protoype, l'objectif de conception d'un module d'habilitation éléctrique est atteint. Ce projet permettra vraisemblabement d'atteindre une nouvelle étape de production d'une future application qui apportera une véritable plus-value à Bouygues Energies et Services.
+    Bien qu'il reste à l'état de protoype, l'objectif de conception d'un module d'habilitation éléctrique est atteint. Ce projet permettra vraisemblabement d'atteindre une nouvelle étape de production d'une future application qui apportera une véritable plus-value à Bouygues Energies et Services. \\
 
     % Annexes
     \section{Annexes}
