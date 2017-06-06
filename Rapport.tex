@@ -15,6 +15,7 @@
 \usepackage{caption}
 \usepackage[colorlinks=true, allcolors=blue]{hyperref}
 
+\usepackage{float}
 \usepackage{fancyhdr}
 
 \fancyhf{}
@@ -89,7 +90,7 @@
     \normalsize
     Afin de finaliser mon diplôme de DUT Informatique à l'IUT d'Annecy, j'ai effectué mon stage d'une durée de 3 mois dans une entreprise de mon choix, qui s'est naturellement porté vers le secteur de l'industrie, puisque je souhaite continuer mes études dans une école d'ingénieur industriel. \\
 
-    Par l'intermédiaire de madame Nathalie Gruson, j'ai répondu à une annonce qui m'a particulièrement intéressé puisqu'elle proposait de travailler sur de la réalité virtuelle en utilisant Unity, un moteur de jeu que j'ai l'habitude d'utiliser, et qui est une technologie que j'affectionne particulièrement. \\
+    Par l'intermédiaire de madame Nathalie Gruson, j'ai répondu à une annonce qui m'a particulièrement intéressé puisqu'elle proposait de travailler sur de la réalité virtuelle\footnote{La réalité virtuelle est une technique graphique visant à utiliser un casque projetant des images en 3D à un utilisateur afin d'améliorer l'immersion de celui-ci dans le monde qui l'entoure} en utilisant Unity, un moteur de jeu que j'ai l'habitude d'utiliser, et qui est une technologie que j'affectionne particulièrement. \\
 
     L'entreprise n'a rien à voir avec le secteur de l'informatique pure, et c'est justement cette différence avec les autres offres de stage qui m'a poussé à candidater, afin de découvrir un autre monde que les sites et applications web et mobiles, que l'on pratique beaucoup à l'IUT. \\
     
@@ -108,7 +109,7 @@
     Le groupe est structuré autour de trois activités : le secteur BTP (Bouygues Construction,
 Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Telecom) et les médias (TF1). Chaque sous-groupe comprend des filales. Bouygues Energies et Services, par exemple, est une filiale du sous-groupe Bouygues Construction, lui même appartenant au groupe Bouygues. Il est à noter que Bouygues Energies et Services a été renommé en 2013 ; Il s'agissait auparavant de l'entreprise ETDE, rachetée par Bouygues Construction en 1984. \\
 
-    schémaGroupeBouygues \\
+    \includegraphics[scale=0.45]{img/groupeBouygues}
     
     Le groupe Bouygues est un des leaders du marché dans tous les secteurs où il possède des groupes. En 2015, le chiffre d’affaires du groupe Bouygues s’élève à 32,428 milliards d’euros, et celui de Bouygues Energies Services s'élève à 925 568 300 euros. \\
 
@@ -125,7 +126,7 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
 
     \item Les villes et collectivités : \\
 
-        La population mondiale devenant de plus en plus urbaine, et le mouvement s'accélérant, la ville de demain doit être plus accueillante, économe, connectée et sécurisée, de façon à allier la qualité de vie avec une empreinte écologique faible. Bouygues Energies et Services est un des acteurs de cette transition qui concerne les collectivités. \\
+        La population mondiale devenant de plus en plus urbaine, et le mouvement s'accélérant, la ville de demain doit être plus accueillante, économe, connectée et sécurisée, de façon à allier la qualité de vie avec une empreinte écologique faible\footnote{Mesure de la pression exercée par l'homme sur la nature}. Bouygues Energies et Services est un des acteurs de cette transition qui concerne les collectivités. \\
 
     \item Le tertiaire et l'industrie: \\
 
@@ -149,19 +150,40 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
     \subsection{Implantation et locaux}
     \subsubsection{Bouygues Energies et Services en France et dans le monde}
 
-    Le groupe Bouygues est présent dans plus de 100 pays sur les 5 continents. La société Bouygues Energies et Services, quant à elle, est implantée dans 25 pays d’Europe, d’Afrique et d’Amérique du Nord, suivant 7 zones géographiques (France IDF, France Ouest, France Est/Italie, Royaume Uni, Suisse/Allemagne, Canada, Afrique). Comptant près de 200 implantations sur le territoire Français, dont 35 dans notre zone (France Est/Italie), l’entreprise est donc établie assez largement et dans le monde entier. \\
+    Le groupe Bouygues est présent dans plus de 100 pays sur les 5 continents. La société Bouygues Energies et Services, quant à elle, est implantée dans 25 pays d’Europe, d’Afrique et d’Amérique du Nord, suivant 7 zones géographiques (France IDF, France Ouest, France Est/Italie, Royaume Uni, Suisse/Allemagne, Canada, Afrique). Comptant près de 200 implantations sur le territoire Français, dont 35 dans notre zone (France Est/Italie), l’entreprise est donc 
+    établie assez largement et dans le monde
 
+    \begin{figure}[H]
     \includegraphics[scale=0.5]{img/implantationFrance}
     \includegraphics[scale=0.5]{img/ZGFrance}
+    \caption{Implantation de Bouygues Energies et Services en France selon les zones géographiques}
+    \end{figure}
 
     \subsubsection{Les locaux de l'entreprise}
 
     Dans le cadre de mon stage, j’ai travaillé dans les locaux du technopôle Savoie Technolac, plus précisément dans l'un des bureaux d’étude. \\
 
-    imgLocaux \\
-    imgBureauDEtudes \\
-    imgAtelier \\
-    imgSalleReunion \\
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.065]{img/imgLocaux}
+        \caption{Les locaux de mon entreprise, vus de l'exterieur}
+    \end{figure}
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.065]{img/bureauEtude}
+        \caption{Le bureau dans lequel j'ai travaillé}
+    \end{figure}
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.065]{img/atelier}
+        \caption{L'atelier des électriciens}
+    \end{figure}
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.065]{img/salleReu}
+        \caption{La grande salle de réunion des locaux}
+    \end{figure}
+
 
     \subsection{Le personnel}
 
@@ -169,7 +191,13 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
 
     Au sein des locaux dans lesquels j'ai travaillé dans le cadre de mon stage, nous étions environ 60 personnes (les effectifs varient d'une semaine sur l'autre du fait des différents projets en cours).  \\
 
-    Le service informatique n'est pas interne à l'entreprise. En effet, le groupe Bouygues a décidé de faire de l'IT Outsourcing, et donc de ne pas engager d'administrateur système dans le personnel de l'entreprise. La gestion informatique est donc effectuée par une autre filiale du groupe Bouygues, qui est appellée Structis. \\
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.45]{img/Organigramme}
+        \caption{Organigramme du bureau d'études de Bouygues Energies et Services - Annexe 1}
+    \end{figure}
+
+    Le service informatique n'est pas interne à l'entreprise. En effet, le groupe Bouygues a décidé de faire de l'IT Outsourcing\footnote{Avoir un parc informatiqué externe à l'entreprise, généralement géré par une entreprise tierce}, et donc de ne pas engager d'administrateur système dans le personnel de l'entreprise. La gestion informatique est donc effectuée par une autre filiale du groupe Bouygues, qui est appellée Structis. \\
 
     \subsection{L'équipe de travail}
 
@@ -213,24 +241,67 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
 
     Le choix des moyens techniques a été réalisé en amont de mon stage par l'équipe qui a lancé le projet au bureau d'étude de Bouygues Energies et Services. \\ 
 
-    Afin de développer l'application, nous avons choisi d'utiliser le moteur de jeu Unity, pour les performances, la rapidité de développement, la polyvalence et la modularité qui est la sienne. De plus, nous avons pu utiliser des licences gratuites, car l'utilisation que nous avons du moteur n'est pas commerciale. L'utilisation d'un autre moteur, comme Unreal, ne nous a pas paru être un bon choix, notamment parce qu'il nécéssite des compétences en C++, qui n'est pas dans les langages que je maîtrise parfaitement. [Logo Unity / Unreal Engine] \\
+    Afin de développer l'application, nous avons choisi d'utiliser le moteur de jeu Unity, pour les performances, la rapidité de développement, la polyvalence et la modularité qui est la sienne. De plus, nous avons pu utiliser des licences gratuites, car l'utilisation que nous avons du moteur n'est pas commerciale. L'utilisation d'un autre moteur, comme Unreal, ne nous a pas paru être un bon choix, notamment parce qu'il nécéssite des compétences en C++, qui n'est pas dans les langages que je maîtrise parfaitement. \\
 
-    Bien que j'eusse préféré utiliser Linux comme environnement de développement, j'ai eu à travailler sur Windows car les ordinateurs fournis par Structis tournent uniquement sur ce système d'exploitation. L'avantage est que durant tout le développement, je n'ai pas eu à me soucier de la compatibilité entre différents systèmes d'exploitations, même si Unity gère cela de façon transparente. [ Logo Windows / Linux ] \\
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.5]{img/logo-unity}
+        \hspace{10pt}
+        \includegraphics[scale=0.5]{img/logo-unreal}
+        \caption{Unity / Unreal Engine}
+    \end{figure}
+
+    Bien que j'eusse préféré utiliser Linux comme environnement de développement, j'ai eu à travailler sur Windows car les ordinateurs fournis par Structis tournent uniquement sur ce système d'exploitation. Le principal avantage que j'ai eu en utilisant Windows a été de ne pas avoir eu à me soucier de la compatibilité entre les différents systèmes d'exploitations, même si Unity gère ce problème de façon transparente. \\
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.5]{img/logo-w10}
+        \hspace{10pt}
+        \includegraphics[scale=0.5]{img/logo-linux}
+        \caption{Windows 10 / Linux}
+    \end{figure}
     
-    Le language C\# a été utilisé pour le scripting de l'application elle-même, puisque c'est celui que j'avais personnellement le plus utilisé avec le moteur de jeu, je connaissais donc bien l'API. De plus, il existe de nombreux comparatifs de performance entre JavaScript et C\#, qui montrent qu'une application développée avec l'API que nous avons utilisé sera bien plus performante. [ Logo CSharp / JS / Benchmarks ] \\
+    Le language C\# a été utilisé pour le scripting de l'application elle-même, puisque c'est celui que j'avais personnellement le plus utilisé avec le moteur de jeu, je connaissais donc bien l'API\footnote{Application Programming Interface, interface permettant de développer en utilisant un logiciel ou une solution depuis un language de programmation}. De plus, il existe de nombreux comparatifs de performance entre JavaScript et C\#, qui montrent qu'une application développée avec l'API que nous avons utilisé sera bien plus performante. \\
 
-    Le choix de l'IDE que j'ai utilisé, Visual Studio Code, a été fait suite à une recommendation de mon tuteur, que j'ai approuvé puisque beaucoup de mes collègues à l'IUT m'avaient déjà proposé d'apprendre à l'utiliser. Cet outil très puissant, extrêmement modulable, et adapté au développement pour Unity a été une des très bonne découvertes que j'ai pu faire durant mon stage, et je l'utilise désormais comme mon IDE pour tous les languages dans mes projets personnels. Nous avons volontairement décidé de ne pas utiliser Visual Studio pour Windows ; Ce logiciel aurait coûté une licence en plus pour mon projet car Bouygues Energies et Services fait plus d'un million d'euros de chiffre d'affaires, et que j'ai personnellement préféré apprendre à utiliser une technologie que je n'avais pas encore utilisé. [ Logo VSCode / Visual Studio tout court ].\\
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.35]{img/logo-csharp}
+        \hspace{10pt}
+        \includegraphics[scale=0.75]{img/logo-javascript}
+        \caption{C\# / JavaScript}
+    \end{figure}
 
-    Pour la modélisation 3D, nous avons choisi d'utiliser SketchUp, car c'est le logiciel que mon tuteur savait utilisé, et qu'il est très facile à prendre à main, j'ai donc également pu m'essayer au dessin assisté par ordinateur, ce qui a été un franc succès. [ Logo SketchUp ] \\
+    Le choix de l'IDE\footnote{Integrated Development Environment, EDI en Français, se dit d'un logiciel contenant une suite d'outils permettant de développer dans un language informatique} que j'ai utilisé, Visual Studio Code, a été fait suite à une recommendation de mon tuteur, que j'ai approuvé puisque beaucoup de mes collègues à l'IUT m'avaient déjà proposé d'apprendre à l'utiliser. Cet outil très puissant, extrêmement modulable, et adapté au développement pour Unity a été une des très bonne découvertes que j'ai pu faire durant mon stage, et je l'utilise désormais comme mon IDE pour tous les languages dans mes projets personnels. Nous avons volontairement décidé de ne pas utiliser Visual Studio pour Windows ; Ce logiciel aurait coûté une licence en plus pour mon projet car Bouygues Energies et Services fait plus d'un million d'euros de chiffre d'affaires, et que j'ai personnellement préféré apprendre à utiliser une technologie que je n'avais pas encore utilisé. \\
 
-    Réalisation du BAPI / Comparatif en vrai \\
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.05]{img/Logo-VSCode}
+        \hspace{10pt}
+        \includegraphics[scale=0.5]{img/logo-visual-studio}
+        \caption{Visual Studio Code / Visual Studio}
+    \end{figure}
+
+    Pour la modélisation 3D, nous avons choisi d'utiliser SketchUp, car c'est le logiciel que mon tuteur savait utilisé, et qu'il est très facile à prendre à main, j'ai donc également pu m'essayer au dessin assisté par ordinateur, par exemple en m'exerçant à reproduire un BAPI\footnote{Bloc Autonome Portatif d'Intervention, sorte de grosse lampe torche que l'on trouve dans les sous-stations} dans le logiciel SketchUp avant de l'importer sous Unity \\
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.5]{img/logo-skp}
+        \caption{Google SketchUp}
+    \end{figure}
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.5]{img/BAPI-Screen}
+        \includegraphics[scale=0.5]{img/BAPI-Reel}
+        \caption{Ma représentation 3D d'un BAPI / Un vrai BAPI}
+    \end{figure}
 
     % Etude et réalisation
     \section{Etude et réalisation de l'application}
 
     \subsection{Planification des tâches}
     
-     Dans le cadre du projet, nous avons choisi un cycle de développement suivant une méthode agile, très comparable à la méthode Scrum. Pour cette raison, il n'a pas été possible de faire un diagramme de Gantt pour la planification des tâches en début de projet. Voici alors le diagramme de Gantt (retrospectif) de la planification des tâches du projet :
+     Dans le cadre du projet, nous avons choisi un cycle de développement suivant une méthode agile, très comparable à la méthode Scrum. Pour cette raison, il n'a pas été possible de faire un diagramme de Gantt pour la planification des tâches en début de projet. Voici alors le diagramme de Gantt\footnote{Diagramme retrospectif, dans ce cas} de la planification des tâches du projet :
 
      [ insérer GanttProjet ]   
 
@@ -246,9 +317,9 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
 
     La réalisation du projet a été faite suivant une méthode semblable à la méthode Scrum, vue en cours. Chaque jour, je prenais 5 minutes pour discuter avec mon tuteur du travail restant à effectuer, des machines et des interactions qu'il fallait reproduire, et de ce que je pensais réussir à finir dans la journée. Cette sorte de mélée était importante pour garder en tête les objectifs du projet, et me fixer chaque jour un nouveau point à atteindre. \\
 
-    Chaque fois que j'avais un doute, ou besoin d'une information concernant une machine que je ne comprenais pas, ou une interaction à animer, je pouvais contacter mon tuteur de stage par l'intermédiaire de Lync, un système de dialogue intra-entreprise. \\
+    Chaque fois que j'avais un doute, ou besoin d'une information concernant une machine que je ne comprenais pas, ou une interaction à animer, je pouvais contacter mon tuteur de stage par l'intermédiaire de Lync\footnote{Logiciel Microsoft permettant la communication intra-entreprise}. \\
 
-    Chaque partie du projet terminée était soumise à validation par mon tuteur. Il a été décidé également de mettre en place un système de sauvegarde hebdomadaire sur le serveur interne de l'entreprise, permettant de mettre en place un système de versionning puisque nous n'avons pas utilisé Git à cause du manque de serveur. \\
+    Chaque partie du projet terminée était soumise à validation par mon tuteur. Il a été décidé également de mettre en place un système de sauvegarde hebdomadaire sur le serveur interne de l'entreprise, permettant de mettre en place un système de versionning\footnote{Se dit d'un système capable de gérer plusieurs versions du développement d'un logiciel, permettant le travail à plusieurs et l'accès rapide au code d'une version antérieure} puisque nous n'avons pas utilisé Git ou SVN\footnote{Git et SVN, par exemple, sont deux systèmes de versionning} à cause du manque de serveur interne à l'entreprise. \\
 
     Vers la moitié du stage, j'ai eu également une démonstration de mon projet à faire auprès de monsieur Payerne, qui a apprécié le rendu graphique qu'il a vu, et a pu me faire quelques retours. \\
 
@@ -260,7 +331,7 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
    
     Le projet n'a pas été déployé sur un serveur réellement, puisqu'il est toujours en développement et que le projet lui-même consiste à faire un prototype de ce que pourrait être un module d'habilitation éléctrique en réalité virtuelle. \\
 
-    Il est à noter qu'un système de build hebdomadaire a été mis en place : mon tuteur souhaite une version utilisable de l'application, toujours à disposition sur le serveur. Chaque fin de semaine, en plus de la sauvegarde du projet sur le serveur, j'effectuais donc un export de l'application au format éxecutable. \\
+    Il est à noter qu'un système de build\footnote{Export d'une version executable de l'application développée} hebdomadaire a été mis en place : mon tuteur souhaite une version utilisable de l'application, toujours à disposition sur le serveur. Chaque fin de semaine, en plus de la sauvegarde du projet sur le serveur, j'effectuais donc un export de l'application au format éxecutable. \\
     
     % Bilan
     \section{Bilan}
