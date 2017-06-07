@@ -97,6 +97,8 @@
     
     Bouygues Energies et Services m'a proposé de travailler sur un nouveau module, qui permettrait d'aider leurs techniciens à se former à la maintenance de cellules dites HT (Haute Tension), en mettant à profit les nouvelles technologies, notamment la réalité virtuelle. \\
 
+    Durant ce rapport, je ferais des explications à propos des technologies utilisées en restant le plus clair et simple possible. Pour plus d'informations techniques, j'ai écris une documentation technique d'une cinquantaine de pages sur mon projet. \\
+
     Dans la première partie, je présenterais l'entreprise qui m'a accueilli. Puis, je développerai le besoin et la mission que l'on m'a assigné. J'expliquerais ensuite la phase d'étude et de réalisation du projet, et je finirai par un bilan de l'experience enrichissante qu'a été ce stage. \\
 
     \newpage 
@@ -324,7 +326,7 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
 
     La plus grosse difficulté du projet, à mon goût, a été de suivre le cycle de développement agile que nous avons mis en place, sans avoir constitué un réel cahier des charges au début du stage. Nous avons mis en place une trame Trello, mais cette dernière ne permettait pas de définir une conception objet valable. En effet, même si mon tuteur m'a souvent dit de \"voir loin\" pour le développement, pour chaque partie du système, il était possible que le besoin, que je ne pouvais pas prévoir, change d'une heure sur l'autre. La phase de conception a donc été très compliquée pour moi et a entraîné du retard sur la phase de réalisation. \\
     
-    Chaque fois qu'un nouveau problème m'était posé, je prenais du temps pour effectuer un croquis, sorte de schéma semblable à de l'UML. Une fois cette première réflexion effectuée, je faisais valider le principe par mon tuteur afin qu'il comprenne comment j'allais résoudre le problème. Je procédais ensuite à la réalisation d'un diagramme UML (très souvent un diagramme de classe, mais aussi un diagramme d'activité). Pour la réalisation des cellules et transformateurs haute tension, qui ont un fonctionnement bien précis, il a été fréquent que je réalise un diagramme d'état. \\ 
+    Chaque fois qu'un nouveau problème m'était posé, je prenais du temps pour effectuer un croquis, sorte de schéma semblable à de l'UML. Une fois cette première réflexion effectuée, je faisais valider le principe par mon tuteur afin qu'il comprenne comment j'allais résoudre le problème. Je procédais ensuite à la réalisation d'un diagramme UML (très souvent un diagramme de classe). Pour la réalisation des cellules et transformateurs haute tension, qui ont un fonctionnement bien précis, il a été fréquent que je réalise un diagramme d'état-transitions. \\ 
 
     \subsubsection{Conceptualisation des systèmes}
 
@@ -337,13 +339,17 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
     Pour la simulation, il a été défini un type de cellule spéciale, nommée arrivée EDF. Cette dernière représente le courant délivré, qui alimente en continu. Il faut noter que cette arrivée peut être coupée, afin que le formateur puisse simuler une coupure de courant pendant l'intervention. \\
 
     \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.3]{img/DiagClassCellules}
         \caption{Diagramme de classe du système de cellules - Annexe 3}
     \end{figure}
 
-    De plus, j'ai réalisé la simulation du fonctionnement des cellules à haute tension en me basant sur un diagramme d'activité, car ces machins sont utilisées en suivant un processus très précis, parfaitement décrit par un diagramme d'activité. 
+    De plus, j'ai réalisé la simulation du fonctionnement des cellules à haute tension en me basant sur un diagramme d'état-transition, car ces machines sont utilisées en suivant un processus très précis, décrit très simplement par ce diagramme. Voici par exemple celui de la cellule QM \\
 
     \begin{figure}[H]
-        \caption{Diagramme d'activité représentant le fonctionnement d'une cellule haute tension - Annexe 4}
+        \centering
+        \includegraphics[scale=0.4]{img/DiagEtatTransitionQM}
+        \caption{Diagramme d'état-transition représentant le fonctionnement d'une cellule haute tension - Annexe 4}
     \end{figure} 
 
     \paragraph{Le système de clé / serrures}
@@ -356,6 +362,8 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
     Le fonctionnement a été entièrement expliqué dans la documentation du projet. \\
     
     \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.5]{img/DiagClasseSerrures}
         \caption{Diagramme de classe du système de serrures et clés - Annexe 5}
     \end{figure}
 
@@ -363,9 +371,10 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
 
     Les transformateurs font partie des derniers objets à avoir été implémenté. Dans la situation réelle, ce sont eux qui se chargent de distribuer le courant issu des cellules haute tension. \\
 
-    Une phase de conception a été nécéssaire afin de reproduire le fonctionnement de ces transformateurs. Une fois de plus, le fonctionnement de ces derniers est décrit dans la documentation technique du projet. \\
+    Une conception objet a été nécéssaire afin de reproduire le fonctionnement de ces transformateurs. Une fois de plus, le fonctionnement de ces derniers est décrit dans la documentation technique du projet. \\
 
     \begin{figure}[H]
+        \includegraphics[scale=0.3]{img/DiagClassCellules}
         \caption{Diagramme de classe du système de transformateur - Annexe 6}
     \end{figure}  
 
