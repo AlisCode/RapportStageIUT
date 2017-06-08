@@ -314,19 +314,79 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
     % Etude et réalisation
     \section{Etude et réalisation de l'application}
 
-    \subsection{Planification des tâches}
+    \subsection{La gestion de projet}
     
-     Dans le cadre du projet, nous avons choisi un cycle de développement suivant une méthode agile, très comparable à la méthode Scrum. Pour cette raison, il n'a pas été possible de faire un diagramme de Gantt pour la planification des tâches en début de projet. Voici alors le diagramme de Gantt\footnote{Diagramme retrospectif, dans ce cas} de la planification des tâches du projet :
+     Dans le cadre du projet, nous avons choisi un cycle de développement suivant une méthode agile, très comparable à la méthode Scrum. Pour cette raison, il n'a pas été possible de faire un diagramme de Gantt pour la gestion des tâches en début de projet. Voici alors le diagramme de Gantt\footnote{Diagramme retrospectif, dans ce cas} de la planification des tâches du projet :
 
-     [ insérer GanttProjet ]   
+     \begin{figure}[H]
+        \centering 
+        \includegraphics[scale=0.375]{img/GanttStage}
+        \caption{Diagramme de Gantt - planification des tâches du stage - Annexe 1}
+     \end{figure}
+
+     Légende du diagramme : 
+     \begin{itemize}
+        \item Les tâches bleues sont les tâches principales du projet \\
+        \item Les tâches rouges sont les tâches secondaires, réalisées en parallèles\\
+        \item Les tâches vertes sont les évènements du projet qui marquent le milieu et la fin du stage \\
+     \end{itemize}
+
+     Afin de suivre une certaine trame dans le développement du projet, mon tuteur de stage a mis en place dès le début du stage un Trello, sur lequel il mettait les différentes tâches que j'avais à remplir pour avancer dans le développement, ainsi que différentes indications me permettant de mieux comprendre ce que j'avais à reproduire. En plus de cela, mon tuteur marquait ses propres tâches afin que nous puissions synchroniser nos travaux. Voici deux captures d'écrans qui montrent l'évolution du Trello durant le projet. \\
+
+     \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.15]{img/trello1}
+        \includegraphics[scale=0.15]{img/trello2}
+        \caption{Etat du Trello - 19 Avril 2017 / 29 Mai 2017 - Annexes 1 et 2}
+     \end{figure} 
 
     \subsection{Conception du projet}
 
     \subsubsection{Le problème de la conception objet}
 
-    La plus grosse difficulté du projet, à mon goût, a été de suivre le cycle de développement agile que nous avons mis en place, sans avoir constitué un réel cahier des charges au début du stage. Nous avons mis en place une trame Trello, mais cette dernière ne permettait pas de définir une conception objet valable. En effet, même si mon tuteur m'a souvent dit de \"voir loin\" pour le développement, pour chaque partie du système, il était possible que le besoin, que je ne pouvais pas prévoir, change d'une heure sur l'autre. La phase de conception a donc été très compliquée pour moi et a entraîné du retard sur la phase de réalisation. \\
+    La plus grosse difficulté du projet, à mon goût, a été de suivre le cycle de développement agile que nous avons mis en place, sans avoir constitué un réel cahier des charges au début du stage. La trame Trello mise en place ne permettait pas de définir une conception objet valable. En effet, même si mon tuteur m'a souvent dit de \"voir loin\" pour le développement, pour chaque partie du système, il était possible que le besoin, que je ne pouvais pas prévoir, change d'une heure sur l'autre. La phase de conception a donc été très compliquée pour moi et a entraîné du retard sur la phase de réalisation. \\
     
     Chaque fois qu'un nouveau problème m'était posé, je prenais du temps pour effectuer un croquis, sorte de schéma semblable à de l'UML. Une fois cette première réflexion effectuée, je faisais valider le principe par mon tuteur afin qu'il comprenne comment j'allais résoudre le problème. Je procédais ensuite à la réalisation d'un diagramme UML (très souvent un diagramme de classe). Pour la réalisation des cellules et transformateurs haute tension, qui ont un fonctionnement bien précis, il a été fréquent que je réalise un diagramme d'état-transitions. \\ 
+
+    \subsubsection{Utilisation du moteur de jeu Unity}
+
+    Afin de comprendre la conceptualisation objet que j'ai effectué, il faut tout d'abord comprendre le principe d'Unity. \\
+
+    Unity est un moteur de jeu ; C'est un ensemble de composants logiciels qui permet d'effectuer une simulation en temps réel. Ce type d'outil prend en charge toutes les différentes couches à notre place, rendant le développement de notre module plus facile. Notamment, Unity va gérer pour nous : \\
+    
+    \begin{itemize}
+
+        \item Le moteur graphique, qui permet d'afficher des formes géométriques 2D et 3D à l'écran, avec toutes les textures, les animations, et les fioritures graphiques qui y sont associées. \\
+
+        \item Le moteur son, qui permet de gérer la spatialisation audio, afin d'immerger l'utilisateur dans un univers sonore. \\
+ 
+        \item Le moteur logique, qui permet de gérer le déroulement d'une application, du lancement à l'extinction du processus, en assurant tout le temps un nombre d'images par seconde précis. C'est le chef d'orchestre qui permet l'harmonisation entre les autres moteurs. \\
+
+        \item Le moteur physique, qui gère les déplacements, la gravité, les collisions entre éléments, tout ce qui est régi par les lois de la physique. \\
+
+        \item Le moteur réseau, qui permet de synchroniser les actions entre différentes applications par l'intermédiaire d'un programme agissant comme un serveur. \\
+
+        \item Le moteur d'intelligence artificielle, qui permet de gérer la prise de décision relative à chaque entité présente dans la simulation. \\
+    \end{itemize}
+
+    Utiliser un moteur de jeu se fait le plus souvent par l'intermédiaire de son éditeur approprié. On va ensuite pouvoir ajouter des objets dans une scène, et gérer leur comportement face aux différentes actions de l'utilisateur grâce à des scripts écrits utilisant l'API du moteur de jeu. \\
+
+    \begin{figure}[H]
+        \centering
+        \caption{Exemple de mon environnement de travail quotidien}
+    \end{figure}
+
+    Techniquement parlant, Unity se base sur un Design Pattern\footnote{Patron de conception en français, solution éprouvée pour résoudre un problème d'architecture logicielle} que l'on apelle EC\footnote{Entity Component}, qui s'inspire du design pattern ECS\footnote{Entity Component System}. Sur Unity, la couche \"System\" est gérée automatiquement, et n'est pas directement modifiable par l'utilisateur. Ce design pattern peut être représenté par le diagramme de classe suivant. \\
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.45]{img/DiagClasseEntityComponent}
+        \caption{Représentation simplifiée du Design Pattern \"Entity Component\" - Annexe 10}
+    \end{figure} 
+
+    Quand on utilise Unity, on crée des classes qui héritent de MonoBehaviour, qui représentent pour le moteur de jeu un composant écrit en C\#. Il est donc impliqué dans tous les diagrammes UML suivant que ces scripts héritent de MonoBehaviour. \\
+
+    Par nature, l'utilisation du moteur de jeu nous pousse à rendre tous nos attributs publics afin de rendre l'utilisation et la communication entre les composants plus facile. \\
 
     \subsubsection{Conceptualisation des systèmes}
 
@@ -340,7 +400,7 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
 
     \begin{figure}[H]
         \centering
-        \includegraphics[scale=0.3]{img/DiagClassCellules}
+        \includegraphics[scale=0.35]{img/DiagClassCellules}
         \caption{Diagramme de classe du système de cellules - Annexe 3}
     \end{figure}
 
@@ -417,7 +477,10 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
     Pour résoudre le problème, j'ai donc crée un script utilisable dans l'éditeur d'Unity qui, une fois l'objet de la corde séléctionné, genère les liaisons physiques adéquates. \\ 
 
     \begin{figure}[H]
-        \caption{Système de corde dans l'éditeur Unity}
+        \centering
+        \includegraphics[scale=0.3]{img/CordeUnity}
+        \includegraphics[scale=0.4]{img/GenererCorde}
+        \caption{Système de corde dans l'éditeur Unity - Annexe 1}
     \end{figure}
 
     \paragraph{Les objets portables par l'utilisateur}
@@ -426,15 +489,17 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
 
     Le problème peut être solutionné de plusieurs façons. J'ai d'abord choisi de me pencher sur la solution d'une jointure physique de type élastique avec un objet invisible, afin de faire en sorte que l'objet suive les déplacements de l'utilsateur dans la simulation. \\
 
-    Déçu par le manque de réalisme de cette solution qui n'avait pas le rendu graphique voulu, j'ai ensuite crée mon propre système afin de pouvoir porter les objets dans le moteur de jeu. Pour résumer le fonctionnement qui est détaillé dans la documentation du projet, on fait en sorte que l'objet bouge tout le temps vers une position cible qui est définie selon l'endroit où l'utilisateur regarde. En annulant les effets du moteur physique sur l'objet, on a ainsi une représentation avec un rendu convenable.
+    Déçu par le manque de réalisme de cette solution qui n'avait pas le rendu graphique voulu, j'ai ensuite crée mon propre système afin de pouvoir porter les objets dans le moteur de jeu. Pour résumer le fonctionnement qui est détaillé dans la documentation du projet, on fait en sorte que l'objet bouge tout le temps vers une position cible qui est définie selon l'endroit où l'utilisateur regarde. En annulant les effets du moteur physique sur l'objet, on a ainsi une représentation avec un rendu convenable. \\
 
     \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.5]{img/SimulPorterObjet}
         \caption{Dans la simulation, l'utilisateur peut porter des objets.}
     \end{figure}
 
-    \subsection{Les tests du projets}
+    \subsection{Les tests du projet}
 
-    Unity ne propose pas nativement de système de tests pour les applications qu'il produit. Les tests sont donc effectués à la volée, pendant que je développe. Comme chaque GameObject peut être exporté sous forme de préfabriqué, il suffit pour tester un objet d'importer le préfabriqué et d'étudier son comportement quand on interagit avec.
+    Unity ne propose pas nativement de système de tests pour les applications qu'il produit. Les tests sont donc effectués à la volée, pendant que je développe. Comme chaque GameObject peut être exporté sous forme de préfabriqué, il suffit pour tester un objet d'importer le préfabriqué et d'étudier son comportement quand on interagit avec.\\
 
     \subsection{Déploiement de l'application}
    
@@ -451,6 +516,9 @@ Bouygues Immobilier et Colas), les réseaux de télécommunication (Bouygues Tel
     \end{figure}
 
     \begin{figure}[H]
+        \centering
+        \includegraphics[scale=0.35]{img/DocTechnique1}
+        \includegraphics[scale=0.35]{img/DocTechnique2}
         \caption{Captures d'écran de la documentation fournie à l'entreprise}
     \end{figure}
 
