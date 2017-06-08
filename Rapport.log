@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.4.30)  6 JUN 2017 15:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.4.30)  9 JUN 2017 01:35
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **Rapport.tex
 (./Rapport.tex
@@ -796,153 +795,128 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: img/logobyes.png Graphic file (type png)
 
 <use img/logobyes.png>
-Package pdftex.def Info: img/logobyes.png used on input line 87.
+Package pdftex.def Info: img/logobyes.png used on input line 88.
 (pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
 File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
  <use img/logo-bouygues-construction.jpg>
 Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
-87.
+88.
 (pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
 File: img/logo-univ.png Graphic file (type png)
 
 <use img/logo-univ.png>
-Package pdftex.def Info: img/logo-univ.png used on input line 87.
+Package pdftex.def Info: img/logo-univ.png used on input line 88.
 (pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
 File: img/logo-iut.png Graphic file (type png)
  <use img/logo-iut.png>
-Package pdftex.def Info: img/logo-iut.png used on input line 87.
+Package pdftex.def Info: img/logo-iut.png used on input line 88.
 (pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
 File: img/logo-info.png Graphic file (type png)
  <use img/logo-info.png>
-Package pdftex.def Info: img/logo-info.png used on input line 87.
+Package pdftex.def Info: img/logo-info.png used on input line 88.
 (pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
  [3]
-Underfull \hbox (badness 10000) in paragraph at lines 89--92
+Underfull \hbox (badness 10000) in paragraph at lines 90--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
  []
 
 File: img/logobyes.png Graphic file (type png)
 <use img/logobyes.png>
-Package pdftex.def Info: img/logobyes.png used on input line 101.
+Package pdftex.def Info: img/logobyes.png used on input line 104.
 (pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
 File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
  <use img/logo-bouygues-construction.jpg>
 Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
-101.
+104.
 (pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
 File: img/logo-univ.png Graphic file (type png)
 
 <use img/logo-univ.png>
-Package pdftex.def Info: img/logo-univ.png used on input line 101.
+Package pdftex.def Info: img/logo-univ.png used on input line 104.
 (pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
 File: img/logo-iut.png Graphic file (type png)
  <use img/logo-iut.png>
-Package pdftex.def Info: img/logo-iut.png used on input line 101.
+Package pdftex.def Info: img/logo-iut.png used on input line 104.
 (pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
 File: img/logo-info.png Graphic file (type png)
  <use img/logo-info.png>
-Package pdftex.def Info: img/logo-info.png used on input line 101.
+Package pdftex.def Info: img/logo-info.png used on input line 104.
 (pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
  [4]
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--111
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
 
  []
 
-<img/groupeBouygues.PNG, id=167, 974.89218pt x 602.25pt>
+<img/groupeBouygues.PNG, id=163, 974.89218pt x 602.25pt>
 File: img/groupeBouygues.PNG Graphic file (type png)
 
 <use img/groupeBouygues.PNG>
-Package pdftex.def Info: img/groupeBouygues.PNG used on input line 112.
+Package pdftex.def Info: img/groupeBouygues.PNG used on input line 116.
 (pdftex.def)             Requested size: 438.69743pt x 271.01pt.
 
-Overfull \hbox (26.90608pt too wide) in paragraph at lines 112--113
+Overfull \hbox (11.90608pt too wide) in paragraph at lines 116--117
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
 File: img/logobyes.png Graphic file (type png)
 <use img/logobyes.png>
-Package pdftex.def Info: img/logobyes.png used on input line 128.
+Package pdftex.def Info: img/logobyes.png used on input line 126.
 (pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
 File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
  <use img/logo-bouygues-construction.jpg>
 Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
-128.
+126.
 (pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
 File: img/logo-univ.png Graphic file (type png)
 
 <use img/logo-univ.png>
-Package pdftex.def Info: img/logo-univ.png used on input line 128.
+Package pdftex.def Info: img/logo-univ.png used on input line 126.
 (pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
 File: img/logo-iut.png Graphic file (type png)
  <use img/logo-iut.png>
-Package pdftex.def Info: img/logo-iut.png used on input line 128.
+Package pdftex.def Info: img/logo-iut.png used on input line 126.
 (pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
 File: img/logo-info.png Graphic file (type png)
  <use img/logo-info.png>
-Package pdftex.def Info: img/logo-info.png used on input line 128.
+Package pdftex.def Info: img/logo-info.png used on input line 126.
 (pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
  [5 <./img/groupeBouygues.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 131--132
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
@@ -952,237 +926,209 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--136
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
 
-<img/implantationFrance.png, id=175, 426.84468pt x 412.54124pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 167.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+167.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 167.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 167.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 167.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [6]
+<img/implantationFrance.png, id=179, 426.84468pt x 412.54124pt>
 File: img/implantationFrance.png Graphic file (type png)
 
 <use img/implantationFrance.png>
-Package pdftex.def Info: img/implantationFrance.png used on input line 157.
+Package pdftex.def Info: img/implantationFrance.png used on input line 169.
 (pdftex.def)             Requested size: 213.42181pt x 206.27011pt.
 
-<img/ZGFrance.png, id=176, 371.13657pt x 486.31688pt>
+<img/ZGFrance.png, id=180, 371.13657pt x 486.31688pt>
 File: img/ZGFrance.png Graphic file (type png)
  <use img/ZGFrance.png>
-Package pdftex.def Info: img/ZGFrance.png used on input line 158.
+Package pdftex.def Info: img/ZGFrance.png used on input line 170.
 (pdftex.def)             Requested size: 185.56783pt x 243.15784pt.
-File: img/logobyes.png Graphic file (type png)
 
-<use img/logobyes.png>
-Package pdftex.def Info: img/logobyes.png used on input line 161.
-(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
-File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
- <use img/logo-bouygues-construction.jpg>
-Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
-161.
-(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
-File: img/logo-univ.png Graphic file (type png)
-
-<use img/logo-univ.png>
-Package pdftex.def Info: img/logo-univ.png used on input line 161.
-(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
-File: img/logo-iut.png Graphic file (type png)
- <use img/logo-iut.png>
-Package pdftex.def Info: img/logo-iut.png used on input line 161.
-(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
-File: img/logo-info.png Graphic file (type png)
- <use img/logo-info.png>
-Package pdftex.def Info: img/logo-info.png used on input line 161.
-(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
- [6]
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
 
  []
 
-<img/imgLocaux.jpg, id=183, 4047.12pt x 3035.34pt>
+<img/imgLocaux.jpg, id=181, 4047.12pt x 3035.34pt>
 File: img/imgLocaux.jpg Graphic file (type jpg)
  <use img/imgLocaux.jpg>
-Package pdftex.def Info: img/imgLocaux.jpg used on input line 168.
-(pdftex.def)             Requested size: 263.07204pt x 197.30402pt.
+Package pdftex.def Info: img/imgLocaux.jpg used on input line 180.
+(pdftex.def)             Requested size: 202.36786pt x 151.7759pt.
 
-<img/bureauEtude.jpg, id=184, 4047.12pt x 3035.34pt>
+<img/bureauEtude.jpg, id=182, 4047.12pt x 3035.34pt>
 File: img/bureauEtude.jpg Graphic file (type jpg)
  <use img/bureauEtude.jpg>
-Package pdftex.def Info: img/bureauEtude.jpg used on input line 173.
-(pdftex.def)             Requested size: 263.07204pt x 197.30402pt.
+Package pdftex.def Info: img/bureauEtude.jpg used on input line 186.
+(pdftex.def)             Requested size: 202.36786pt x 151.7759pt.
 
-<img/atelier.jpg, id=185, 4047.12pt x 3035.34pt>
+<img/atelier.jpg, id=183, 4047.12pt x 3035.34pt>
 File: img/atelier.jpg Graphic file (type jpg)
  <use img/atelier.jpg>
-Package pdftex.def Info: img/atelier.jpg used on input line 178.
-(pdftex.def)             Requested size: 263.07204pt x 197.30402pt.
+Package pdftex.def Info: img/atelier.jpg used on input line 192.
+(pdftex.def)             Requested size: 202.36786pt x 151.7759pt.
 File: img/logobyes.png Graphic file (type png)
 
 <use img/logobyes.png>
-Package pdftex.def Info: img/logobyes.png used on input line 180.
+Package pdftex.def Info: img/logobyes.png used on input line 194.
 (pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
 File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
  <use img/logo-bouygues-construction.jpg>
 Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
-180.
+194.
 (pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
 File: img/logo-univ.png Graphic file (type png)
 
 <use img/logo-univ.png>
-Package pdftex.def Info: img/logo-univ.png used on input line 180.
+Package pdftex.def Info: img/logo-univ.png used on input line 194.
 (pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
 File: img/logo-iut.png Graphic file (type png)
  <use img/logo-iut.png>
-Package pdftex.def Info: img/logo-iut.png used on input line 180.
+Package pdftex.def Info: img/logo-iut.png used on input line 194.
 (pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
 File: img/logo-info.png Graphic file (type png)
  <use img/logo-info.png>
-Package pdftex.def Info: img/logo-info.png used on input line 180.
+Package pdftex.def Info: img/logo-info.png used on input line 194.
 (pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
  [7 <./img/implantationFrance.png> <./img/ZGFrance.png> <./img/imgLocaux.jpg>]
-<img/salleReu.jpg, id=194, 4047.12pt x 3035.34pt>
+<img/salleReu.jpg, id=191, 4047.12pt x 3035.34pt>
 File: img/salleReu.jpg Graphic file (type jpg)
  <use img/salleReu.jpg>
-Package pdftex.def Info: img/salleReu.jpg used on input line 183.
-(pdftex.def)             Requested size: 263.07204pt x 197.30402pt.
+Package pdftex.def Info: img/salleReu.jpg used on input line 198.
+(pdftex.def)             Requested size: 202.36786pt x 151.7759pt.
 File: img/logobyes.png Graphic file (type png)
 
 <use img/logobyes.png>
-Package pdftex.def Info: img/logobyes.png used on input line 186.
+Package pdftex.def Info: img/logobyes.png used on input line 202.
 (pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
 File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
  <use img/logo-bouygues-construction.jpg>
 Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
-186.
+202.
 (pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
 File: img/logo-univ.png Graphic file (type png)
 
 <use img/logo-univ.png>
-Package pdftex.def Info: img/logo-univ.png used on input line 186.
+Package pdftex.def Info: img/logo-univ.png used on input line 202.
 (pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
 File: img/logo-iut.png Graphic file (type png)
  <use img/logo-iut.png>
-Package pdftex.def Info: img/logo-iut.png used on input line 186.
+Package pdftex.def Info: img/logo-iut.png used on input line 202.
 (pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
 File: img/logo-info.png Graphic file (type png)
  <use img/logo-info.png>
-Package pdftex.def Info: img/logo-info.png used on input line 186.
+Package pdftex.def Info: img/logo-info.png used on input line 202.
 (pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
- [8 <./img/bureauEtude.jpg> <./img/atelier.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 190--191
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
-
- []
-
-<img/Organigramme.png, id=201, 941.01563pt x 752.8125pt>
-File: img/Organigramme.png Graphic file (type png)
-
-<use img/Organigramme.png>
-Package pdftex.def Info: img/Organigramme.png used on input line 196.
-(pdftex.def)             Requested size: 423.45313pt x 338.76248pt.
-File: img/logobyes.png Graphic file (type png)
- <use img/logobyes.png>
-Package pdftex.def Info: img/logobyes.png used on input line 199.
-(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
-File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
-
-<use img/logo-bouygues-construction.jpg>
-Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
-199.
-(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
-File: img/logo-univ.png Graphic file (type png)
- <use img/logo-univ.png>
-Package pdftex.def Info: img/logo-univ.png used on input line 199.
-(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
-File: img/logo-iut.png Graphic file (type png)
-
-<use img/logo-iut.png>
-Package pdftex.def Info: img/logo-iut.png used on input line 199.
-(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
-File: img/logo-info.png Graphic file (type png)
- <use img/logo-info.png>
-Package pdftex.def Info: img/logo-info.png used on input line 199.
-(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
- [9 <./img/salleReu.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 200--201
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
-
- []
-
-
+ [8 <./img/bureauEtude.jpg> <./img/atelier.jpg> <./img/salleReu.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+
+ []
+
+<img/Organigramme.png, id=199, 941.01563pt x 752.8125pt>
+File: img/Organigramme.png Graphic file (type png)
+
+<use img/Organigramme.png>
+Package pdftex.def Info: img/Organigramme.png used on input line 212.
+(pdftex.def)             Requested size: 423.45313pt x 338.76248pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
 
 File: img/logobyes.png Graphic file (type png)
 <use img/logobyes.png>
-Package pdftex.def Info: img/logobyes.png used on input line 213.
+Package pdftex.def Info: img/logobyes.png used on input line 220.
 (pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
 File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
  <use img/logo-bouygues-construction.jpg>
 Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
-213.
+220.
 (pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
 File: img/logo-univ.png Graphic file (type png)
 
 <use img/logo-univ.png>
-Package pdftex.def Info: img/logo-univ.png used on input line 213.
+Package pdftex.def Info: img/logo-univ.png used on input line 220.
 (pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
 File: img/logo-iut.png Graphic file (type png)
  <use img/logo-iut.png>
-Package pdftex.def Info: img/logo-iut.png used on input line 213.
+Package pdftex.def Info: img/logo-iut.png used on input line 220.
 (pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
 File: img/logo-info.png Graphic file (type png)
  <use img/logo-info.png>
-Package pdftex.def Info: img/logo-info.png used on input line 213.
+Package pdftex.def Info: img/logo-info.png used on input line 220.
 (pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
- [10 <./img/Organigramme.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
-
- []
-
-
+ [9 <./img/Organigramme.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 224--225
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 226--227
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 228--229
 
  []
 
@@ -1201,377 +1147,1217 @@ Underfull \hbox (badness 10000) in paragraph at lines 236--237
 
  []
 
+<img/localHabilitation.jpg, id=208, 4047.12pt x 3035.34pt>
+File: img/localHabilitation.jpg Graphic file (type jpg)
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
+<use img/localHabilitation.jpg>
+Package pdftex.def Info: img/localHabilitation.jpg used on input line 240.
+(pdftex.def)             Requested size: 303.5209pt x 227.64067pt.
 
- []
+<img/habilitation1.jpg, id=209, 4047.12pt x 3035.34pt>
+File: img/habilitation1.jpg Graphic file (type jpg)
 
+<use img/habilitation1.jpg>
+Package pdftex.def Info: img/habilitation1.jpg used on input line 246.
+(pdftex.def)             Requested size: 202.36786pt x 151.7759pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--243
+<img/habilitation2.jpg, id=210, 4047.12pt x 3035.34pt>
+File: img/habilitation2.jpg Graphic file (type jpg)
 
- []
-
-File: img/logobyes.png Graphic file (type png)
-<use img/logobyes.png>
-Package pdftex.def Info: img/logobyes.png used on input line 244.
-(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
-File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
- <use img/logo-bouygues-construction.jpg>
-Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
-244.
-(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
-File: img/logo-univ.png Graphic file (type png)
-
-<use img/logo-univ.png>
-Package pdftex.def Info: img/logo-univ.png used on input line 244.
-(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
-File: img/logo-iut.png Graphic file (type png)
- <use img/logo-iut.png>
-Package pdftex.def Info: img/logo-iut.png used on input line 244.
-(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
-File: img/logo-info.png Graphic file (type png)
- <use img/logo-info.png>
-Package pdftex.def Info: img/logo-info.png used on input line 244.
-(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
- [11]
-Underfull \hbox (badness 10000) in paragraph at lines 244--245
-
- []
-
-<img/logo-unity.png, id=219, 323.2075pt x 117.43875pt>
-File: img/logo-unity.png Graphic file (type png)
-
-<use img/logo-unity.png>
-Package pdftex.def Info: img/logo-unity.png used on input line 248.
-(pdftex.def)             Requested size: 161.60335pt x 58.71922pt.
-
-<img/logo-unreal.png, id=220, 225.84375pt x 225.84375pt>
-File: img/logo-unreal.png Graphic file (type png)
-
-<use img/logo-unreal.png>
-Package pdftex.def Info: img/logo-unreal.png used on input line 250.
-(pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
-
- []
-
-<img/logo-w10.png, id=221, 225.84375pt x 225.84375pt>
-File: img/logo-w10.png Graphic file (type png)
- <use img/logo-w10.png>
-Package pdftex.def Info: img/logo-w10.png used on input line 258.
-(pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
-
-<img/logo-linux.jpg, id=222, 208.78pt x 242.9075pt>
-File: img/logo-linux.jpg Graphic file (type jpg)
- <use img/logo-linux.jpg>
-Package pdftex.def Info: img/logo-linux.jpg used on input line 260.
-(pdftex.def)             Requested size: 104.38972pt x 121.45345pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--265
-
- []
-
-<img/logo-csharp.jpg, id=224, 351.3125pt x 394.47375pt>
-File: img/logo-csharp.jpg Graphic file (type jpg)
-
-<use img/logo-csharp.jpg>
-Package pdftex.def Info: img/logo-csharp.jpg used on input line 268.
-(pdftex.def)             Requested size: 122.96121pt x 138.06787pt.
-
-<img/logo-javascript.png, id=225, 195.73125pt x 195.73125pt>
-File: img/logo-javascript.png Graphic file (type png)
-
-<use img/logo-javascript.png>
-Package pdftex.def Info: img/logo-javascript.png used on input line 270.
-(pdftex.def)             Requested size: 146.79807pt x 146.79807pt.
+<use img/habilitation2.jpg>
+Package pdftex.def Info: img/habilitation2.jpg used on input line 247.
+(pdftex.def)             Requested size: 202.36786pt x 151.7759pt.
 File: img/logobyes.png Graphic file (type png)
  <use img/logobyes.png>
-Package pdftex.def Info: img/logobyes.png used on input line 273.
+Package pdftex.def Info: img/logobyes.png used on input line 250.
 (pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
 File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
 
 <use img/logo-bouygues-construction.jpg>
 Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
-273.
+250.
 (pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
 File: img/logo-univ.png Graphic file (type png)
  <use img/logo-univ.png>
-Package pdftex.def Info: img/logo-univ.png used on input line 273.
+Package pdftex.def Info: img/logo-univ.png used on input line 250.
 (pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
 File: img/logo-iut.png Graphic file (type png)
 
 <use img/logo-iut.png>
-Package pdftex.def Info: img/logo-iut.png used on input line 273.
+Package pdftex.def Info: img/logo-iut.png used on input line 250.
 (pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
 File: img/logo-info.png Graphic file (type png)
  <use img/logo-info.png>
-Package pdftex.def Info: img/logo-info.png used on input line 273.
+Package pdftex.def Info: img/logo-info.png used on input line 250.
 (pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
- [12 <./img/logo-unity.png> <./img/logo-unreal.png> <./img/logo-w10.png> <./img
-/logo-linux.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
+ [10 <./img/localHabilitation.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
 
  []
 
-<img/Logo-VSCode.jpg, id=237, 1204.5pt x 796.9775pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 263.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+263.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 263.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 263.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 263.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [11 <./img/habilitation1.jpg> <./img/habilitation2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
+
+ []
+
+<img/UseCases.png, id=221, 914.41624pt x 740.7675pt>
+File: img/UseCases.png Graphic file (type png)
+ <use img/UseCases.png>
+Package pdftex.def Info: img/UseCases.png used on input line 272.
+(pdftex.def)             Requested size: 457.207pt x 370.38284pt.
+
+Overfull \hbox (30.41565pt too wide) in paragraph at lines 272--273
+ [][] 
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 277.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+277.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 277.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 277.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 277.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [12 <./img/UseCases.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+<img/logo-unity.png, id=228, 323.2075pt x 117.43875pt>
+File: img/logo-unity.png Graphic file (type png)
+
+<use img/logo-unity.png>
+Package pdftex.def Info: img/logo-unity.png used on input line 289.
+(pdftex.def)             Requested size: 113.12431pt x 41.10417pt.
+
+<img/logo-unreal.png, id=229, 225.84375pt x 225.84375pt>
+File: img/logo-unreal.png Graphic file (type png)
+
+<use img/logo-unreal.png>
+Package pdftex.def Info: img/logo-unreal.png used on input line 291.
+(pdftex.def)             Requested size: 79.04648pt x 79.04648pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+
+ []
+
+<img/logo-w10.png, id=230, 225.84375pt x 225.84375pt>
+File: img/logo-w10.png Graphic file (type png)
+ <use img/logo-w10.png>
+Package pdftex.def Info: img/logo-w10.png used on input line 301.
+(pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
+
+<img/logo-linux.jpg, id=231, 208.78pt x 242.9075pt>
+File: img/logo-linux.jpg Graphic file (type jpg)
+ <use img/logo-linux.jpg>
+Package pdftex.def Info: img/logo-linux.jpg used on input line 303.
+(pdftex.def)             Requested size: 104.38972pt x 121.45345pt.
+File: img/logobyes.png Graphic file (type png)
+
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 307.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+307.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 307.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 307.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 307.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [13 <./img/logo-unity.png> <./img/logo-unreal.png> <./img/logo-w10.png> <./img
+/logo-linux.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+<img/logo-csharp.jpg, id=243, 351.3125pt x 394.47375pt>
+File: img/logo-csharp.jpg Graphic file (type jpg)
+
+<use img/logo-csharp.jpg>
+Package pdftex.def Info: img/logo-csharp.jpg used on input line 313.
+(pdftex.def)             Requested size: 105.39455pt x 118.34303pt.
+
+<img/logo-javascript.png, id=244, 195.73125pt x 195.73125pt>
+File: img/logo-javascript.png Graphic file (type png)
+
+<use img/logo-javascript.png>
+Package pdftex.def Info: img/logo-javascript.png used on input line 315.
+(pdftex.def)             Requested size: 127.22379pt x 127.22379pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+
+ []
+
+<img/Logo-VSCode.jpg, id=246, 1204.5pt x 796.9775pt>
 File: img/Logo-VSCode.jpg Graphic file (type jpg)
  <use img/Logo-VSCode.jpg>
-Package pdftex.def Info: img/Logo-VSCode.jpg used on input line 278.
+Package pdftex.def Info: img/Logo-VSCode.jpg used on input line 325.
 (pdftex.def)             Requested size: 60.22852pt x 39.8512pt.
 
-<img/logo-visual-studio.png, id=238, 293.59688pt x 60.97781pt>
+<img/logo-visual-studio.png, id=247, 293.59688pt x 60.97781pt>
 File: img/logo-visual-studio.png Graphic file (type png)
 
 <use img/logo-visual-studio.png>
-Package pdftex.def Info: img/logo-visual-studio.png used on input line 280.
+Package pdftex.def Info: img/logo-visual-studio.png used on input line 327.
 (pdftex.def)             Requested size: 146.79807pt x 30.48882pt.
+File: img/logobyes.png Graphic file (type png)
+ <use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 332.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--285
+<use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+332.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+ <use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 332.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+
+<use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 332.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 332.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [14 <./img/logo-csharp.jpg> <./img/logo-javascript.png> <./img/Logo-VSCode.jpg
+> <./img/logo-visual-studio.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
 
  []
 
-<img/Logo-skp.png, id=240, 216.81pt x 234.8775pt>
+<img/Logo-skp.png, id=259, 216.81pt x 234.8775pt>
 File: img/Logo-skp.png Graphic file (type png)
  <use img/Logo-skp.png>
-Package pdftex.def Info: img/Logo-skp.png used on input line 288.
+Package pdftex.def Info: img/Logo-skp.png used on input line 341.
 (pdftex.def)             Requested size: 108.40472pt x 117.43846pt.
 
-<img/BAPI-Screen.png, id=241, 182.18062pt x 250.68657pt>
+<img/BAPI-Screen.png, id=260, 182.18062pt x 250.68657pt>
 File: img/BAPI-Screen.png Graphic file (type png)
 
 <use img/BAPI-Screen.png>
-Package pdftex.def Info: img/BAPI-Screen.png used on input line 294.
-(pdftex.def)             Requested size: 91.09007pt x 125.34297pt.
+Package pdftex.def Info: img/BAPI-Screen.png used on input line 349.
+(pdftex.def)             Requested size: 118.41599pt x 162.94432pt.
 
-<img/BAPI-Reel.jpg, id=242, 225.84375pt x 225.84375pt>
+<img/BAPI-Reel.jpg, id=261, 225.84375pt x 225.84375pt>
 File: img/BAPI-Reel.jpg Graphic file (type jpg)
  <use img/BAPI-Reel.jpg>
-Package pdftex.def Info: img/BAPI-Reel.jpg used on input line 295.
-(pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
+Package pdftex.def Info: img/BAPI-Reel.jpg used on input line 350.
+(pdftex.def)             Requested size: 146.79669pt x 146.79669pt.
 File: img/logobyes.png Graphic file (type png)
 
 <use img/logobyes.png>
-Package pdftex.def Info: img/logobyes.png used on input line 298.
+Package pdftex.def Info: img/logobyes.png used on input line 355.
 (pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
 File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
  <use img/logo-bouygues-construction.jpg>
 Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
-298.
+355.
 (pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
 File: img/logo-univ.png Graphic file (type png)
 
 <use img/logo-univ.png>
-Package pdftex.def Info: img/logo-univ.png used on input line 298.
+Package pdftex.def Info: img/logo-univ.png used on input line 355.
 (pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
 File: img/logo-iut.png Graphic file (type png)
  <use img/logo-iut.png>
-Package pdftex.def Info: img/logo-iut.png used on input line 298.
+Package pdftex.def Info: img/logo-iut.png used on input line 355.
 (pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
 File: img/logo-info.png Graphic file (type png)
  <use img/logo-info.png>
-Package pdftex.def Info: img/logo-info.png used on input line 298.
+Package pdftex.def Info: img/logo-info.png used on input line 355.
 (pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
- [13 <./img/logo-csharp.jpg> <./img/logo-javascript.png> <./img/Logo-VSCode.jpg
-> <./img/logo-visual-studio.png> <./img/Logo-skp.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
+ [15 <./img/Logo-skp.png> <./img/BAPI-Screen.png> <./img/BAPI-Reel.jpg>]
+<img/GanttStage.png, id=272, 1236.62pt x 383.4325pt>
+File: img/GanttStage.png Graphic file (type png)
+ <use img/GanttStage.png>
+Package pdftex.def Info: img/GanttStage.png used on input line 365.
+(pdftex.def)             Requested size: 463.73137pt x 143.78683pt.
+
+Overfull \hbox (36.94002pt too wide) in paragraph at lines 365--366
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--317
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
 
  []
 
+<img/trello1.png, id=273, 1446.15282pt x 761.09344pt>
+File: img/trello1.png Graphic file (type png)
+ <use img/trello1.png>
+Package pdftex.def Info: img/trello1.png used on input line 380.
+(pdftex.def)             Requested size: 216.91356pt x 114.15909pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
+<img/trello2.png, id=274, 1262.46657pt x 709.90219pt>
+File: img/trello2.png Graphic file (type png)
+ <use img/trello2.png>
+Package pdftex.def Info: img/trello2.png used on input line 381.
+(pdftex.def)             Requested size: 189.36182pt x 106.48073pt.
 
- []
-
-File: img/logobyes.png Graphic file (type png)
-<use img/logobyes.png>
-Package pdftex.def Info: img/logobyes.png used on input line 321.
-(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
-File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
- <use img/logo-bouygues-construction.jpg>
-Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
-321.
-(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
-File: img/logo-univ.png Graphic file (type png)
-
-<use img/logo-univ.png>
-Package pdftex.def Info: img/logo-univ.png used on input line 321.
-(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
-File: img/logo-iut.png Graphic file (type png)
- <use img/logo-iut.png>
-Package pdftex.def Info: img/logo-iut.png used on input line 321.
-(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
-File: img/logo-info.png Graphic file (type png)
- <use img/logo-info.png>
-Package pdftex.def Info: img/logo-info.png used on input line 321.
-(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
- [14 <./img/BAPI-Screen.png> <./img/BAPI-Reel.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 322--323
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 324--325
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 341--342
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 343--344
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 345--346
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 349--350
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
 
  []
 
 File: img/logobyes.png Graphic file (type png)
 <use img/logobyes.png>
-Package pdftex.def Info: img/logobyes.png used on input line 350.
+Package pdftex.def Info: img/logobyes.png used on input line 390.
 (pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
 File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
  <use img/logo-bouygues-construction.jpg>
 Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
-350.
+390.
 (pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
 File: img/logo-univ.png Graphic file (type png)
 
 <use img/logo-univ.png>
-Package pdftex.def Info: img/logo-univ.png used on input line 350.
+Package pdftex.def Info: img/logo-univ.png used on input line 390.
 (pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
 File: img/logo-iut.png Graphic file (type png)
  <use img/logo-iut.png>
-Package pdftex.def Info: img/logo-iut.png used on input line 350.
+Package pdftex.def Info: img/logo-iut.png used on input line 390.
 (pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
 File: img/logo-info.png Graphic file (type png)
  <use img/logo-info.png>
-Package pdftex.def Info: img/logo-info.png used on input line 350.
+Package pdftex.def Info: img/logo-info.png used on input line 390.
 (pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
- [15]
-Underfull \hbox (badness 10000) in paragraph at lines 351--352
+ [16 <./img/GanttStage.png> <./img/trello1.png> <./img/trello2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--354
+Underfull \hbox (badness 10000) in paragraph at lines 395--396
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 355--356
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 357--358
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--362
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 363--364
+Underfull \hbox (badness 10000) in paragraph at lines 405--406
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 365--366
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--368
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--370
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
+
+ []
+
+<img/EverydayWorkflow.png, id=284, 2409.0pt x 813.0375pt>
+File: img/EverydayWorkflow.png Graphic file (type png)
+
+<use img/EverydayWorkflow.png>
+Package pdftex.def Info: img/EverydayWorkflow.png used on input line 418.
+(pdftex.def)             Requested size: 481.79147pt x 162.60461pt.
+
+Overfull \hbox (55.00012pt too wide) in paragraph at lines 418--419
+ [][] 
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 421.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+421.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 421.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 421.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 421.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [17]
+Underfull \hbox (badness 10000) in paragraph at lines 422--423
+
+ []
+
+<img/DiagClasseEntityComponent.png, id=294, 836.12375pt x 553.06625pt>
+File: img/DiagClasseEntityComponent.png Graphic file (type png)
+
+<use img/DiagClasseEntityComponent.png>
+Package pdftex.def Info: img/DiagClasseEntityComponent.png used on input line 4
+26.
+(pdftex.def)             Requested size: 376.25221pt x 248.8775pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--433
 
  []
 
 File: img/logobyes.png Graphic file (type png)
 <use img/logobyes.png>
-Package pdftex.def Info: img/logobyes.png used on input line 376.
+Package pdftex.def Info: img/logobyes.png used on input line 434.
 (pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
 File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
  <use img/logo-bouygues-construction.jpg>
 Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
-376.
+434.
 (pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
 File: img/logo-univ.png Graphic file (type png)
 
 <use img/logo-univ.png>
-Package pdftex.def Info: img/logo-univ.png used on input line 376.
+Package pdftex.def Info: img/logo-univ.png used on input line 434.
 (pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
 File: img/logo-iut.png Graphic file (type png)
  <use img/logo-iut.png>
-Package pdftex.def Info: img/logo-iut.png used on input line 376.
+Package pdftex.def Info: img/logo-iut.png used on input line 434.
 (pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
 File: img/logo-info.png Graphic file (type png)
  <use img/logo-info.png>
-Package pdftex.def Info: img/logo-info.png used on input line 376.
+Package pdftex.def Info: img/logo-info.png used on input line 434.
 (pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
- [16]
-Overfull \hbox (2.22168pt too wide) in paragraph at lines 380--394
-$[]$ $[]$ 
+ [18 <./img/EverydayWorkflow.png> <./img/DiagClasseEntityComponent.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
+
  []
 
 
-Overfull \hbox (6.4055pt too wide) in paragraph at lines 396--397
-[] 
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
+
  []
 
 
-Overfull \hbox (6.4055pt too wide) in paragraph at lines 412--413
-[] 
+Underfull \hbox (badness 10000) in paragraph at lines 442--443
+
+ []
+
+<img/DiagClassCellules.png, id=305, 1387.1825pt x 1512.65125pt>
+File: img/DiagClassCellules.png Graphic file (type png)
+
+<use img/DiagClassCellules.png>
+Package pdftex.def Info: img/DiagClassCellules.png used on input line 446.
+(pdftex.def)             Requested size: 277.43158pt x 302.52489pt.
+File: img/logobyes.png Graphic file (type png)
+ <use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 450.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+
+<use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+450.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+ <use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 450.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+
+<use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 450.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 450.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [19 <./img/DiagClassCellules.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 452--453
+
+ []
+
+<img/DiagEtatTransitionQM.png, id=315, 1085.05376pt x 543.02875pt>
+File: img/DiagEtatTransitionQM.png Graphic file (type png)
+
+<use img/DiagEtatTransitionQM.png>
+Package pdftex.def Info: img/DiagEtatTransitionQM.png used on input line 456.
+(pdftex.def)             Requested size: 379.7745pt x 190.0629pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--465
+
+ []
+
+<img/DiagClasseSerrures.png, id=316, 595.22375pt x 605.26125pt>
+File: img/DiagClasseSerrures.png Graphic file (type png)
+
+<use img/DiagClasseSerrures.png>
+Package pdftex.def Info: img/DiagClasseSerrures.png used on input line 468.
+(pdftex.def)             Requested size: 208.33144pt x 211.8446pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--475
+
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 475.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+475.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 475.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 475.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 475.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [20 <./img/DiagEtatTransitionQM.png> <./img/DiagClasseSerrures.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
+
+ []
+
+<img/DiagClassTransformateur.png, id=327, 814.04124pt x 371.3875pt>
+File: img/DiagClassTransformateur.png Graphic file (type png)
+
+<use img/DiagClassTransformateur.png>
+Package pdftex.def Info: img/DiagClassTransformateur.png used on input line 479
+.
+(pdftex.def)             Requested size: 244.21425pt x 111.4171pt.
+File: img/logobyes.png Graphic file (type png)
+ <use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 483.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+
+<use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+483.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+ <use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 483.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+
+<use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 483.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 483.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [21 <./img/DiagClassTransformateur.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--491
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+
+ []
+
+<img/logo-lync.png, id=336, 308.1111pt x 157.5486pt>
+File: img/logo-lync.png Graphic file (type png)
+ <use img/logo-lync.png>
+Package pdftex.def Info: img/logo-lync.png used on input line 496.
+(pdftex.def)             Requested size: 154.05516pt x 78.7741pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
+
+ []
+
+<img/logo-git.jpg, id=339, 219.95218pt x 219.95218pt>
+File: img/logo-git.jpg Graphic file (type jpg)
+ <use img/logo-git.jpg>
+Package pdftex.def Info: img/logo-git.jpg used on input line 504.
+(pdftex.def)             Requested size: 109.97581pt x 109.97581pt.
+
+<img/logo-svn.png, id=340, 1284.8pt x 768.8725pt>
+File: img/logo-svn.png Graphic file (type png)
+ <use img/logo-svn.png>
+Package pdftex.def Info: img/logo-svn.png used on input line 505.
+(pdftex.def)             Requested size: 192.71169pt x 115.3259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
+
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 512.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+512.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 512.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 512.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 512.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [22 <./img/logo-lync.png> <./img/logo-git.jpg> <./img/logo-svn.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 517--518
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
+
+ []
+
+<img/CordeUnity.png, id=355, 953.81343pt x 765.6103pt>
+File: img/CordeUnity.png Graphic file (type png)
+
+<use img/CordeUnity.png>
+Package pdftex.def Info: img/CordeUnity.png used on input line 525.
+(pdftex.def)             Requested size: 286.14622pt x 229.68486pt.
+
+<img/GenererCorde.png, id=356, 738.50906pt x 417.05812pt>
+File: img/GenererCorde.png Graphic file (type png)
+
+<use img/GenererCorde.png>
+Package pdftex.def Info: img/GenererCorde.png used on input line 526.
+(pdftex.def)             Requested size: 295.39839pt x 166.82028pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
+
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 533.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+533.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 533.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 533.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 533.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [23 <./img/CordeUnity.png> <./img/GenererCorde.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--537
+
+ []
+
+<img/SimulPorterObjet.png, id=364, 636.12656pt x 478.78876pt>
+File: img/SimulPorterObjet.png Graphic file (type png)
+
+<use img/SimulPorterObjet.png>
+Package pdftex.def Info: img/SimulPorterObjet.png used on input line 540.
+(pdftex.def)             Requested size: 318.0625pt x 239.39378pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 548--549
+
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 550.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+550.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 550.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 550.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 550.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [24 <./img/SimulPorterObjet.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 558--559
+
+ []
+
+<img/logo-doxygen.png, id=372, 160.6pt x 160.6pt>
+File: img/logo-doxygen.png Graphic file (type png)
+ <use img/logo-doxygen.png>
+Package pdftex.def Info: img/logo-doxygen.png used on input line 562.
+(pdftex.def)             Requested size: 160.5996pt x 160.5996pt.
+
+<img/DocTechnique1.PNG, id=373, 444.91219pt x 630.10406pt>
+File: img/DocTechnique1.PNG Graphic file (type png)
+
+<use img/DocTechnique1.PNG>
+Package pdftex.def Info: img/DocTechnique1.PNG used on input line 568.
+(pdftex.def)             Requested size: 155.72159pt x 220.53972pt.
+
+<img/DocTechnique2.PNG, id=374, 439.6425pt x 627.84563pt>
+File: img/DocTechnique2.PNG Graphic file (type png)
+
+<use img/DocTechnique2.PNG>
+Package pdftex.def Info: img/DocTechnique2.PNG used on input line 569.
+(pdftex.def)             Requested size: 153.87717pt x 219.74925pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--581
+
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 581.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+581.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 581.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 581.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 581.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [25 <./img/logo-doxygen.png> <./img/DocTechnique1.PNG> <./img/DocTechnique2.PN
+G>]
+Underfull \hbox (badness 10000) in paragraph at lines 582--583
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 584--585
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 594--595
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 596--597
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--599
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--603
+
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 604.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+604.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 604.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 604.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 604.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [26]
+Underfull \hbox (badness 10000) in paragraph at lines 607--609
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--611
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 612--613
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--615
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--617
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--619
+
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 620.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+620.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 620.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 620.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 620.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [27]
+File: img/GanttStage.png Graphic file (type png)
+
+<use img/GanttStage.png>
+Package pdftex.def Info: img/GanttStage.png used on input line 627.
+(pdftex.def)             Requested size: 462.35391pt x 213.39847pt.
+
+Overfull \hbox (35.56256pt too wide) in paragraph at lines 627--628
+ [][] 
+ []
+
+File: img/trello1.png Graphic file (type png)
+<use img/trello1.png>
+Package pdftex.def Info: img/trello1.png used on input line 631.
+(pdftex.def)             Requested size: 462.3591pt x 341.4437pt.
+
+Overfull \hbox (35.56775pt too wide) in paragraph at lines 631--632
+ [][] 
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 633.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+633.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 633.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 633.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 633.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [28]
+File: img/trello2.png Graphic file (type png)
+
+<use img/trello2.png>
+Package pdftex.def Info: img/trello2.png used on input line 638.
+(pdftex.def)             Requested size: 462.36646pt x 341.44244pt.
+
+Overfull \hbox (35.5751pt too wide) in paragraph at lines 638--639
+ [][] 
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 641.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+641.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 641.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 641.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 641.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [29]
+File: img/DiagClasseEntityComponent.png Graphic file (type png)
+
+<use img/DiagClasseEntityComponent.png>
+Package pdftex.def Info: img/DiagClasseEntityComponent.png used on input line 6
+46.
+(pdftex.def)             Requested size: 469.47641pt x 369.88577pt.
+
+Overfull \hbox (42.68506pt too wide) in paragraph at lines 646--647
+ [][] 
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 649.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+649.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 649.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 649.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 649.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [30]
+File: img/DiagClassCellules.png Graphic file (type png)
+
+<use img/DiagClassCellules.png>
+Package pdftex.def Info: img/DiagClassCellules.png used on input line 654.
+(pdftex.def)             Requested size: 469.4768pt x 540.60716pt.
+
+Overfull \hbox (42.68546pt too wide) in paragraph at lines 654--655
+ [][] 
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 657.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+657.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 657.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 657.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 657.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [31]
+File: img/DiagEtatTransitionQM.png Graphic file (type png)
+
+<use img/DiagEtatTransitionQM.png>
+Package pdftex.def Info: img/DiagEtatTransitionQM.png used on input line 662.
+(pdftex.def)             Requested size: 469.47798pt x 341.44704pt.
+
+Overfull \hbox (42.68663pt too wide) in paragraph at lines 662--663
+ [][] 
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 665.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+665.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 665.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 665.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 665.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [32]
+File: img/DiagClasseSerrures.png Graphic file (type png)
+
+<use img/DiagClasseSerrures.png>
+Package pdftex.def Info: img/DiagClasseSerrures.png used on input line 670.
+(pdftex.def)             Requested size: 469.46777pt x 540.61102pt.
+
+Overfull \hbox (42.67642pt too wide) in paragraph at lines 670--671
+ [][] 
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 673.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+673.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 673.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 673.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 673.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [33]
+File: img/DiagClassTransformateur.png Graphic file (type png)
+
+<use img/DiagClassTransformateur.png>
+Package pdftex.def Info: img/DiagClassTransformateur.png used on input line 678
+.
+(pdftex.def)             Requested size: 469.47368pt x 355.66656pt.
+
+Overfull \hbox (42.68233pt too wide) in paragraph at lines 678--679
+ [][] 
+ []
+
+File: img/logobyes.png Graphic file (type png)
+<use img/logobyes.png>
+Package pdftex.def Info: img/logobyes.png used on input line 688.
+(pdftex.def)             Requested size: 67.50201pt x 35.63303pt.
+File: img/logo-bouygues-construction.jpg Graphic file (type jpg)
+ <use img/logo-bouygues-construction.jpg>
+Package pdftex.def Info: img/logo-bouygues-construction.jpg used on input line 
+688.
+(pdftex.def)             Requested size: 72.89537pt x 37.18483pt.
+File: img/logo-univ.png Graphic file (type png)
+
+<use img/logo-univ.png>
+Package pdftex.def Info: img/logo-univ.png used on input line 688.
+(pdftex.def)             Requested size: 95.0105pt x 36.36296pt.
+File: img/logo-iut.png Graphic file (type png)
+ <use img/logo-iut.png>
+Package pdftex.def Info: img/logo-iut.png used on input line 688.
+(pdftex.def)             Requested size: 71.48975pt x 35.95815pt.
+File: img/logo-info.png Graphic file (type png)
+ <use img/logo-info.png>
+Package pdftex.def Info: img/logo-info.png used on input line 688.
+(pdftex.def)             Requested size: 56.00867pt x 31.73824pt.
+ [34]
+Overfull \hbox (6.4055pt too wide) in paragraph at lines 707--708
+ [] 
+ []
+
+
+Overfull \hbox (6.4055pt too wide) in paragraph at lines 723--724
+ [] 
  []
 
 
 AED: lastpage setting LastPage
-[17]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 430.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 430.
+[35]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 741.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 741.
  (./Rapport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 430.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 430.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 741.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 741.
 
 
 Package rerunfilecheck Warning: File `Rapport.out' has changed.
@@ -1579,35 +2365,36 @@ Package rerunfilecheck Warning: File `Rapport.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Rapport.out':
-(rerunfilecheck)             Before: 77F7CE69F7D67221899B8CACE4F897BB;1820
-(rerunfilecheck)             After:  887E1B3A834AC756DE91E068A708850D;1897.
+(rerunfilecheck)             Before: 887E1B3A834AC756DE91E068A708850D;1897
+(rerunfilecheck)             After:  BBC8D55B8CCAEF088200962E64A92B21;1487.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 430.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 741.
  ) 
 Here is how much of TeX's memory you used:
- 8567 strings out of 493013
- 126420 string characters out of 6139317
- 230563 words of memory out of 5000000
- 11925 multiletter control sequences out of 15000+600000
+ 8725 strings out of 493013
+ 129721 string characters out of 6139317
+ 229567 words of memory out of 5000000
+ 12011 multiletter control sequences out of 15000+600000
  13563 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,17n,43p,1045b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1000.600pk
-> </home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk>
- </home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> 
-</home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0700.600pk> <
-/home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </
-home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </h
-ome/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk> </ho
-me/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </hom
-e/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home
-/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk>
-Output written on Rapport.pdf (17 pages, 15334372 bytes).
+ 36i,16n,43p,1051b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk
+> </home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1000.600pk>
+ </home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> 
+</home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> <
+/home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0700.600pk> </
+home/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </h
+ome/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </ho
+me/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk> </hom
+e/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home
+/olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/
+olivier/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk>
+Output written on Rapport.pdf (35 pages, 29432988 bytes).
 PDF statistics:
- 662 PDF objects out of 1000 (max. 8388607)
- 276 compressed objects within 3 object streams
- 67 named destinations out of 1000 (max. 500000)
- 321 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 877 PDF objects out of 1000 (max. 8388607)
+ 379 compressed objects within 4 object streams
+ 117 named destinations out of 1000 (max. 500000)
+ 431 words of extra memory for PDF output out of 10000 (max. 10000000)
 
