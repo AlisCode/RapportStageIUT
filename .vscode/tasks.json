@@ -1,6 +1,6 @@
 {
     "version": "0.1.0",
-    "command": "pdflatex",
+    "command": "D:\\Data\\OlivierPINON\\MiKTeX\\texmfs\\install\\miktex\\bin\\pdflatex.exe",
     "isShellCommand": true,
     "args": [
         "-interaction=nonstopmode",

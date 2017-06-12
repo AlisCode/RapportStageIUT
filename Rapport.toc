@@ -1,5 +1,5 @@
 \select@language {french}
-\contentsline {section}{\numberline {1}Pr\IeC {\'e}sentation g\IeC {\'e}n\IeC {\'e}rale de l'entreprise}{5}{section.1}
+\contentsline {section}{\numberline {1}Pr\IeC {\'e}sentation g\IeC {\'e}n\IeC {\'e}rale de Bouygues Energies et Services}{5}{section.1}
 \contentsline {subsection}{\numberline {1.1}Le groupe Bouygues et ses filiales}{5}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}Produits et services}{6}{subsection.1.2}
 \contentsline {subsubsection}{\numberline {1.2.1}L'activit\IeC {\'e} de Bouygues Energies et Services}{6}{subsubsection.1.2.1}
@@ -10,7 +10,7 @@
 \contentsline {subsection}{\numberline {1.4}Le personnel}{9}{subsection.1.4}
 \contentsline {subsection}{\numberline {1.5}L'\IeC {\'e}quipe de travail}{10}{subsection.1.5}
 \contentsline {section}{\numberline {2}Le besoin de l'entreprise}{10}{section.2}
-\contentsline {subsection}{\numberline {2.1}Le module d'habilitation \IeC {\'e}l\IeC {\'e}ctrique}{10}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.1}Le module d'habilitation \IeC {\'e}lectrique}{10}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Le besoin d'un nouveau module}{11}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Les fonctionnalit\IeC {\'e}s de l'application}{12}{subsection.2.3}
 \contentsline {subsection}{\numberline {2.4}Les solutions utilis\IeC {\'e}es}{13}{subsection.2.4}
@@ -20,14 +20,14 @@
 \contentsline {subsubsection}{\numberline {3.2.1}Le probl\IeC {\`e}me de la conception objet}{17}{subsubsection.3.2.1}
 \contentsline {subsubsection}{\numberline {3.2.2}Utilisation du moteur de jeu Unity}{17}{subsubsection.3.2.2}
 \contentsline {subsubsection}{\numberline {3.2.3}Conceptualisation des syst\IeC {\`e}mes}{19}{subsubsection.3.2.3}
-\contentsline {paragraph}{Le syst\IeC {\`e}me de cellules}{19}{section*.22}
-\contentsline {paragraph}{Le syst\IeC {\`e}me de cl\IeC {\'e} / serrures}{20}{section*.25}
-\contentsline {paragraph}{Le syst\IeC {\`e}me de transformateurs}{21}{section*.27}
+\contentsline {paragraph}{Le syst\IeC {\`e}me de cellules}{19}{section*.23}
+\contentsline {paragraph}{Le syst\IeC {\`e}me de cl\IeC {\'e} / serrures}{20}{section*.26}
+\contentsline {paragraph}{Le syst\IeC {\`e}me de transformateurs}{21}{section*.28}
 \contentsline {subsection}{\numberline {3.3}R\IeC {\'e}alisation du projet}{22}{subsection.3.3}
 \contentsline {subsubsection}{\numberline {3.3.1}D\IeC {\'e}roulement de la phase de r\IeC {\'e}alisation}{22}{subsubsection.3.3.1}
 \contentsline {subsubsection}{\numberline {3.3.2}Les difficult\IeC {\'e}s de la r\IeC {\'e}alisation}{23}{subsubsection.3.3.2}
-\contentsline {paragraph}{Le syst\IeC {\`e}me de corde}{23}{section*.31}
-\contentsline {paragraph}{Les objets portables par l'utilisateur}{24}{section*.33}
+\contentsline {paragraph}{Le syst\IeC {\`e}me de corde}{23}{section*.32}
+\contentsline {paragraph}{Les objets portables par l'utilisateur}{24}{section*.34}
 \contentsline {subsection}{\numberline {3.4}Les tests du projet}{24}{subsection.3.4}
 \contentsline {subsection}{\numberline {3.5}D\IeC {\'e}ploiement de l'application}{25}{subsection.3.5}
 \contentsline {section}{\numberline {4}Bilan}{26}{section.4}
